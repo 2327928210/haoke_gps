@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="@dimen/layout_x_160"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="10dp" >
+
+        <RadioButton
+            android:id="@+id/tv_today"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_50"
+            android:background="@drawable/white_bt"
+            android:button="@drawable/regist_check"
+            android:paddingLeft="10dp"
+            android:text="@string/tra_today"
+            android:textColor="@color/bt_color"
+            android:textSize="@dimen/layout_x_20" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray" />
+
+        <RadioButton
+            android:id="@+id/tv_yesterday"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_50"
+            android:background="@drawable/white_bt"
+            android:button="@drawable/regist_check"
+            android:paddingLeft="10dp"
+            android:text="@string/tra_yesterday"
+            android:textColor="@color/bt_color"
+            android:textSize="@dimen/layout_x_20" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray" />
+
+        <RadioButton
+            android:id="@+id/tv_yesterday_before"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_50"
+            android:background="@drawable/white_bt"
+            android:button="@drawable/regist_check"
+            android:paddingLeft="10dp"
+            android:text="@string/tra_yesterday_before"
+            android:textColor="@color/bt_color"
+            android:textSize="@dimen/layout_x_20" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray" />
+
+        <RadioButton
+            android:id="@+id/tv_custome"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_50"
+            android:background="@drawable/white_bt"
+            android:button="@drawable/regist_check"
+            android:paddingLeft="10dp"
+            android:text="@string/tra_custom"
+            android:textColor="@color/bt_color"
+            android:textSize="@dimen/layout_x_20" />
+    </LinearLayout>
+
+</RelativeLayout>

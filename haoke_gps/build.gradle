@@ -1,0 +1,87 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        multiDexEnabled true
+        applicationId "com.haoke.gps"
+        minSdkVersion 18
+        targetSdkVersion 26
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+
+        ndk {
+            moduleName "libiconv"
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    signingConfigs {
+        release {
+            keyAlias 'apk.hfc'
+            keyPassword 'a1b2c3d4'
+            storeFile file('apk.clw')
+            storePassword 'a1b2c3d4'
+        }
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+    }
+    sourceSets {
+        main {
+//            manifest.srcFile 'AndroidManifest.xml'
+//            java.srcDirs = ['src']
+//            res.srcDirs = ['res']
+            jni.srcDirs = []
+//            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+
+}
+
+dependencies {
+    compile 'com.android.support:multidex:1.0.1'
+    //    compile 'com.google.android.gms:play-services:3.1.+'
+    //    compile project(':recyclerview')
+    //    compile 'com.google.android.gms:play-services-maps:10.2.1'
+    //    compile 'com.google.android.gms:play-services:10.2.1'
+    //    compile 'com.google.android.gms:play-services:9.4.0'
+    //    compile files('libs/google-play-services.jar')
+    //    compile 'com.google.android.gms:play-services:11.0.4'
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/bugly_crash_release.jar')
+    compile files('libs/core-3.0.0.jar')
+    compile files('libs/glide-3.6.1.jar')
+    compile files('libs/jcore-android-1.1.6.jar')
+    compile files('libs/jpush-android-3.0.8.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/okhttp-2.7.0.jar')
+    compile files('libs/okio-1.6.0.jar')
+    compile files('libs/pgyer_sdk_2.7.0.jar')
+    compile files('libs/zbar-1.0.0.jar')
+    compile files('libs/zbar-camera-1.0.0.jar')
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.android.support:recyclerview-v7:26.0.0-alpha1'
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+    compile 'com.android.support:support-v4:26.0.0-alpha1'
+    compile 'com.android.support:design:26.0.0-alpha1'
+    compile 'com.google.android.gms:play-services:11.0.4'
+//    compile 'com.google.android.gms:play-services-maps:11.0.4'
+}

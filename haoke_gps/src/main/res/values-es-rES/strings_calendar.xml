@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 日历 -->
+    <string name="january">january</string>
+    <string name="february">february</string>
+    <string name="march">march</string>
+    <string name="april">april</string>
+    <string name="may">may</string>
+    <string name="june">june</string>
+    <string name="july">july</string>
+    <string name="august">august</string>
+    <string name="september">september</string>
+    <string name="october">october</string>
+    <string name="november">november</string>
+    <string name="december">december</string>
+    <string name="su">su</string>
+    <string name="mo">mo</string>
+    <string name="tu">tu</string>
+    <string name="we">we</string>
+    <string name="th">th</string>
+    <string name="fr">fr</string>
+    <string name="sa">sa</string>
+
+</resources>

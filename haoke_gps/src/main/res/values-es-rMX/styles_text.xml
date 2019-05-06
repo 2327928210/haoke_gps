@@ -1,0 +1,6 @@
+<resources>
+    <style name="textSize">
+        <item name="android:textSize">@dimen/layout_x_16</item>
+    </style>
+
+</resources>

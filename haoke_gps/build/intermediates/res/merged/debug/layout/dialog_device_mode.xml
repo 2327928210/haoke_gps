@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layout_x_300"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_bg_dialog"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_title"
+                style="@style/textSize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_x_15"
+                android:layout_marginRight="@dimen/layout_x_15"
+                android:layout_marginTop="@dimen/layout_x_15"
+                android:text="@string/device_info_mode"
+                android:textColor="@color/black" />
+
+            <RelativeLayout
+                android:id="@+id/rel_mode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_x_10"
+                android:background="@drawable/shape_button_dialog"
+                android:minHeight="@dimen/layout_y_40" >
+
+                <TextView
+                    android:id="@+id/tv_mode"
+                    style="@style/textSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/imageView1"
+                    android:gravity="center"
+                    android:padding="@dimen/layout_x_5"
+                    android:text="TextView"
+                    android:textColor="@color/black" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="@dimen/layout_y_40"
+                    android:layout_height="@dimen/layout_y_40"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/down1" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/lin_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/lin_date_text1"
+                    style="@style/textSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_x_15"
+                    android:layout_marginRight="@dimen/layout_x_15"
+                    android:text="@string/device_info_mode_date"
+                    android:textColor="@color/black" />
+
+                <RelativeLayout
+                    android:id="@+id/rel_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_y_40"
+                    android:layout_margin="@dimen/layout_x_10"
+                    android:background="@drawable/shape_button_dialog"
+                    android:padding="@dimen/layout_x_5" >
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        android:layout_width="@dimen/layout_y_40"
+                        android:layout_height="@dimen/layout_y_40"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/down1" />
+
+                    <TextView
+                        android:id="@+id/tv_date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/imageView2"
+                        android:gravity="center"
+                        android:text="00:00"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/layout_x_18" />
+                </RelativeLayout>
+
+                <TextView
+                      android:id="@+id/lin_date_text2"
+                    style="@style/textSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_x_15"
+                    android:layout_marginRight="@dimen/layout_x_15"
+                    android:text="@string/device_info_mode_date_tag"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/textSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_x_15"
+                    android:layout_marginRight="@dimen/layout_x_15"
+                    android:text="@string/device_info_mode_time"
+                    android:textColor="@color/black" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_y_40"
+                    android:layout_margin="@dimen/layout_x_10" >
+
+                    <EditText
+                        android:id="@+id/ed_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_y_40"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/shape_edittext_dialog"
+                        android:imeOptions="actionDone"
+                        android:inputType="number"
+                        android:maxLength="5"
+                        android:paddingLeft="@dimen/layout_x_10"
+                        android:paddingRight="@dimen/layout_x_10"
+                        android:textSize="@dimen/layout_x_18" />
+
+                    <ImageView
+                        android:id="@+id/ima_delete_time"
+                        android:layout_width="@dimen/layout_x_30"
+                        android:layout_height="@dimen/layout_x_30"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/layout_x_10"
+                        android:src="@drawable/shez_delete" />
+                </RelativeLayout>
+
+                <TextView
+                    style="@style/textSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_x_15"
+                    android:layout_marginRight="@dimen/layout_x_15"
+                    android:text="@string/device_info_mode_time_tag"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin_second"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/textSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_x_15"
+                    android:layout_marginRight="@dimen/layout_x_15"
+                    android:text="@string/device_info_mode_second"
+                    android:textColor="@color/black" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_y_40"
+                    android:layout_margin="@dimen/layout_x_10" >
+
+                    <EditText
+                        android:id="@+id/ed_second"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_y_40"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/shape_edittext_dialog"
+                        android:imeOptions="actionDone"
+                        android:inputType="number"
+                        android:maxLength="5"
+                        android:paddingLeft="@dimen/layout_x_10"
+                        android:paddingRight="@dimen/layout_x_10"
+                        android:textSize="@dimen/layout_x_18" />
+
+                    <ImageView
+                        android:id="@+id/ima_delete_second"
+                        android:layout_width="@dimen/layout_x_30"
+                        android:layout_height="@dimen/layout_x_30"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/layout_x_10"
+                        android:src="@drawable/shez_delete" />
+                </RelativeLayout>
+
+                <TextView
+                    style="@style/textSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_x_15"
+                    android:layout_marginRight="@dimen/layout_x_15"
+                    android:text="@string/device_info_mode_second_tag"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/layout_y_50"
+                android:layout_margin="@dimen/layout_x_5"
+                android:text="@string/other_set"
+                android:textColor="@color/black"
+                android:textSize="@dimen/layout_x_18" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

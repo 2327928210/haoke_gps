@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="location_time_gt12">
+        <item>连续工作模式</item>
+        <item>10分钟</item>
+        <item>30分钟</item>
+        <item>60分钟</item>
+        <item>180分钟</item>
+        <item>1440分钟</item>
+    </string-array>
+    <string-array name="device_mode2">
+        <item>间隔时间上传模式</item>
+        <item>固定时间点上传模式</item>
+    </string-array>
+    <string-array name="location_time_gt3a">
+        <item>1分钟</item>
+        <item>10分钟</item>
+        <item>60分钟</item>
+    </string-array>
+    <string-array name="device_mode">
+        <item>连续追踪定位模式</item>
+        <item>间隔时间上传模式</item>
+        <item>固定时间点上传模式</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="location_time">
+        <item>20秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="alert_title">
+        <item>未知信息</item>
+        <item>低电量</item> <!-- 101 -->
+        <item>ACC开</item> <!-- 102 -->
+        <item>ACC关</item> <!-- 103 -->
+        <item>外接电源线断开</item> <!-- 104 -->
+        <item>车门打开</item> <!-- 105 -->
+        <item>车辆超速</item> <!-- 106 -->
+        <item>SOS报警</item> <!-- 107 -->
+        <item>进入GPS盲区</item> <!-- 108 -->
+        <item>汽车发生震动</item> <!-- 109 -->
+        <item>汽车异常移动</item> <!-- 110 -->
+        <item>驶出GPS盲区</item> <!-- 111 -->
+        <item>编号1的围栏出围栏</item> <!-- 210 -->
+        <item>编号1的围栏入围栏</item> <!-- 211 -->
+        <item>编号2的围栏出围栏</item> <!-- 220 -->
+        <item>编号2的围栏入围栏</item> <!-- 221 -->
+        <item>编号3的围栏出围栏</item> <!-- 230 -->
+        <item>编号3的围栏入围栏</item> <!-- 231 -->
+        <item>编号4的围栏出围栏</item> <!-- 240 -->
+        <item>编号4的围栏入围栏</item> <!-- 241 -->
+        <item>编号5的围栏出围栏</item> <!-- 250 -->
+        <item>编号5的围栏入围栏</item> <!-- 251 -->
+        <item>设备已被摘除</item> <!-- 112 -->
+    </string-array>
+
+</resources>

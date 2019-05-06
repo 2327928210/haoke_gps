@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <RelativeLayout
+        android:id="@+id/rel_car"
+        android:layout_width="@dimen/layout_x_50"
+        android:layout_height="@dimen/layout_x_50"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/location_color" >
+
+        <Button
+            android:id="@+id/bt_car"
+            android:layout_width="@dimen/layout_x_40"
+            android:layout_height="@dimen/layout_x_40"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/refresh1" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/bt_location"
+        android:layout_width="@dimen/layout_x_55"
+        android:layout_height="@dimen/layout_x_55"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/rel_car"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/location_s"
+        android:text="" />
+
+    <Button
+        android:id="@+id/bt_manycar"
+        android:layout_width="@dimen/layout_x_55"
+        android:layout_height="@dimen/layout_x_55"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/bt_location"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/main_car"
+        android:text="" />
+
+</RelativeLayout>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_color"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <include layout="@layout/layout_titlebar" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:background="@drawable/login_bg"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/layout_x_15"
+        android:paddingRight="@dimen/layout_x_15"
+        android:paddingTop="@dimen/layout_y_10" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="@dimen/layout_y_10"
+            android:paddingTop="@dimen/layout_y_10" >
+
+            <TextView
+                android:layout_width="@dimen/layout_x_110"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/layout_x_5"
+                android:gravity="right"
+                android:text="@string/apn_apn"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <com.haoke.view.APNEdit
+                android:id="@+id/ed_apn"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/layout_y_50"
+                android:layout_weight="1"
+                android:background="@color/white_3"
+                android:paddingLeft="@dimen/layout_x_10"
+                android:paddingRight="@dimen/layout_x_10"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" >
+
+                <requestFocus />
+            </com.haoke.view.APNEdit>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="@dimen/layout_y_10"
+            android:paddingTop="@dimen/layout_y_10" >
+
+            <TextView
+                android:layout_width="@dimen/layout_x_110"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/layout_x_5"
+                android:gravity="right"
+                android:text="@string/apn_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <com.haoke.view.APN_NameEdit
+                android:id="@+id/ed_name"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/layout_y_50"
+                android:layout_weight="1"
+                android:background="@color/white_3"
+                android:ems="10"
+                android:paddingLeft="@dimen/layout_x_10"
+                android:paddingRight="@dimen/layout_x_10"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" >
+            </com.haoke.view.APN_NameEdit>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="@dimen/layout_y_10"
+            android:paddingTop="@dimen/layout_y_10" >
+
+            <TextView
+                android:layout_width="@dimen/layout_x_110"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/layout_x_5"
+                android:gravity="right"
+                android:text="@string/apn_password"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <com.haoke.view.APN_NameEdit
+                android:id="@+id/ed_password"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/layout_y_50"
+                android:layout_weight="1"
+                android:background="@color/white_3"
+                android:ems="10"
+                android:inputType="textPassword"
+                android:paddingLeft="@dimen/layout_x_10"
+                android:paddingRight="@dimen/layout_x_10"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" >
+            </com.haoke.view.APN_NameEdit>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="@dimen/layout_y_10"
+            android:paddingTop="@dimen/layout_y_10" >
+
+            <TextView
+                android:layout_width="@dimen/layout_x_110"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/layout_x_5"
+                android:gravity="right"
+                android:text="@string/apn_sim"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <com.haoke.view.PhoneEdit
+                android:id="@+id/ed_sim"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/layout_y_50"
+                android:layout_weight="1"
+                android:background="@color/white_3"
+                android:ems="10"
+                android:inputType="number"
+                android:paddingLeft="@dimen/layout_x_10"
+                android:paddingRight="@dimen/layout_x_10"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" >
+            </com.haoke.view.PhoneEdit>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="@dimen/layout_x_400"
+            android:layout_height="@dimen/layout_y_60"
+            android:layout_marginTop="@dimen/layout_y_30"
+            android:background="@drawable/login_button"
+            android:text="@string/other_ensure"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layout_x_20" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\rightout.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\rightout.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\rightin.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\rightin.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\3f163e9b55a520307734dea94cf869960e01e486\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\leftout.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\leftout.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\anim_popshow.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\anim_popshow.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\anim_update.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\anim_update.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\3f163e9b55a520307734dea94cf869960e01e486\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\anim_below_show.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\anim_below_show.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\anim_below_hidden.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\anim_below_hidden.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\anim_pophidden.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\anim_pophidden.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\anim\\leftin.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\anim\\leftin.xml"
+    }
+]

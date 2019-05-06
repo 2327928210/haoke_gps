@@ -1,0 +1,4306 @@
+[
+    {
+        "outputFile": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 26,
+                    "endColumn": 19,
+                    "endOffset": 1233
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1238,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1633
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1638,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endLine": 49,
+                    "endColumn": 19,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2064,
+                    "endLine": 54,
+                    "endColumn": 19,
+                    "endOffset": 2204
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2209,
+                    "endLine": 62,
+                    "endColumn": 19,
+                    "endOffset": 2409
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2414,
+                    "endColumn": 78,
+                    "endOffset": 2488
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2493,
+                    "endColumn": 119,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 107,
+                    "endOffset": 2716
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2721,
+                    "endColumn": 122,
+                    "endOffset": 2839
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2844,
+                    "endColumn": 108,
+                    "endOffset": 2948
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2953,
+                    "endColumn": 107,
+                    "endOffset": 3056
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3061,
+                    "endColumn": 84,
+                    "endOffset": 3141
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3146,
+                    "endColumn": 100,
+                    "endOffset": 3242
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3247,
+                    "endColumn": 122,
+                    "endOffset": 3365
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3370,
+                    "endColumn": 84,
+                    "endOffset": 3450
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3455,
+                    "endColumn": 81,
+                    "endOffset": 3532
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3537,
+                    "endColumn": 81,
+                    "endOffset": 3614
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3619,
+                    "endColumn": 111,
+                    "endOffset": 3726
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3731,
+                    "endColumn": 99,
+                    "endOffset": 3826
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3831,
+                    "endColumn": 100,
+                    "endOffset": 3927
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3932,
+                    "endColumn": 107,
+                    "endOffset": 4035
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4040,
+                    "endColumn": 106,
+                    "endOffset": 4142
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4147,
+                    "endColumn": 106,
+                    "endOffset": 4249
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4254,
+                    "endColumn": 121,
+                    "endOffset": 4371
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4376,
+                    "endColumn": 99,
+                    "endOffset": 4471
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4476,
+                    "endColumn": 51,
+                    "endOffset": 4523
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4528,
+                    "endColumn": 43,
+                    "endOffset": 4567
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4572,
+                    "endColumn": 40,
+                    "endOffset": 4608
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4613,
+                    "endColumn": 55,
+                    "endOffset": 4664
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4669,
+                    "endColumn": 52,
+                    "endOffset": 4717
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4722,
+                    "endColumn": 40,
+                    "endOffset": 4758
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4763,
+                    "endColumn": 43,
+                    "endOffset": 4802
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4807,
+                    "endColumn": 39,
+                    "endOffset": 4842
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4847,
+                    "endColumn": 41,
+                    "endOffset": 4884
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4889,
+                    "endColumn": 45,
+                    "endOffset": 4930
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4935,
+                    "endColumn": 96,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 62,
+                    "endOffset": 5090
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5095,
+                    "endColumn": 79,
+                    "endOffset": 5170
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5175,
+                    "endColumn": 100,
+                    "endOffset": 5271
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5276,
+                    "endColumn": 100,
+                    "endOffset": 5372
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5377,
+                    "endColumn": 137,
+                    "endOffset": 5510
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5515,
+                    "endColumn": 85,
+                    "endOffset": 5596
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5601,
+                    "endColumn": 182,
+                    "endOffset": 5779
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5784,
+                    "endColumn": 115,
+                    "endOffset": 5895
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5900,
+                    "endColumn": 116,
+                    "endOffset": 6012
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 6017,
+                    "endColumn": 124,
+                    "endOffset": 6137
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6142,
+                    "endColumn": 100,
+                    "endOffset": 6238
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6243,
+                    "endColumn": 103,
+                    "endOffset": 6342
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6347,
+                    "endColumn": 78,
+                    "endOffset": 6421
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6426,
+                    "endColumn": 95,
+                    "endOffset": 6517
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6522,
+                    "endColumn": 98,
+                    "endOffset": 6616
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6621,
+                    "endColumn": 107,
+                    "endOffset": 6724
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6729,
+                    "endColumn": 77,
+                    "endOffset": 6802
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6807,
+                    "endColumn": 150,
+                    "endOffset": 6953
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\0822dbeb9ac2cfeb4e9e146d20815bb88ffc0f60\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6958,
+                    "endColumn": 151,
+                    "endOffset": 7105
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\0822dbeb9ac2cfeb4e9e146d20815bb88ffc0f60\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 7110,
+                    "endColumn": 98,
+                    "endOffset": 7204
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\0822dbeb9ac2cfeb4e9e146d20815bb88ffc0f60\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 7209,
+                    "endColumn": 75,
+                    "endOffset": 7280
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7285,
+                    "endColumn": 78,
+                    "endOffset": 7359
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 7364,
+                    "endColumn": 80,
+                    "endOffset": 7440
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7445,
+                    "endColumn": 97,
+                    "endOffset": 7538
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 7543,
+                    "endColumn": 100,
+                    "endOffset": 7639
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7644,
+                    "endColumn": 110,
+                    "endOffset": 7750
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7755,
+                    "endColumn": 97,
+                    "endOffset": 7848
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7853,
+                    "endColumn": 96,
+                    "endOffset": 7945
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7950,
+                    "endColumn": 75,
+                    "endOffset": 8021
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 8026,
+                    "endColumn": 110,
+                    "endOffset": 8132
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 8137,
+                    "endColumn": 96,
+                    "endOffset": 8229
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 8234,
+                    "endColumn": 100,
+                    "endOffset": 8330
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 8335,
+                    "endColumn": 122,
+                    "endOffset": 8453
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 8458,
+                    "endColumn": 143,
+                    "endOffset": 8597
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 8602,
+                    "endColumn": 97,
+                    "endOffset": 8695
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 8700,
+                    "endColumn": 95,
+                    "endOffset": 8791
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8796,
+                    "endColumn": 105,
+                    "endOffset": 8897
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8902,
+                    "endColumn": 88,
+                    "endOffset": 8986
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 8991,
+                    "endColumn": 109,
+                    "endOffset": 9096
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 9101,
+                    "endColumn": 197,
+                    "endOffset": 9294
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 9299,
+                    "endColumn": 133,
+                    "endOffset": 9428
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 9433,
+                    "endColumn": 109,
+                    "endOffset": 9538
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 9543,
+                    "endColumn": 219,
+                    "endOffset": 9758
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 9763,
+                    "endColumn": 132,
+                    "endOffset": 9891
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 9896,
+                    "endColumn": 134,
+                    "endOffset": 10026
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 10031,
+                    "endColumn": 204,
+                    "endOffset": 10231
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\f6f5d00ff887bd3808298400d1499f758a360a6e\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 10236,
+                    "endColumn": 229,
+                    "endOffset": 10461
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 10466,
+                    "endColumn": 110,
+                    "endOffset": 10572
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 10577,
+                    "endColumn": 200,
+                    "endOffset": 10773
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 10778,
+                    "endColumn": 134,
+                    "endOffset": 10908
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 10913,
+                    "endColumn": 235,
+                    "endOffset": 11144
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 11149,
+                    "endColumn": 207,
+                    "endOffset": 11352
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 11357,
+                    "endColumn": 99,
+                    "endOffset": 11452
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 11457,
+                    "endColumn": 91,
+                    "endOffset": 11544
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 11549,
+                    "endColumn": 106,
+                    "endOffset": 11651
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 11656,
+                    "endColumn": 73,
+                    "endOffset": 11725
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 11730,
+                    "endColumn": 73,
+                    "endOffset": 11799
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 11804,
+                    "endColumn": 66,
+                    "endOffset": 11866
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 11871,
+                    "endColumn": 95,
+                    "endOffset": 11962
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 11967,
+                    "endColumn": 95,
+                    "endOffset": 12058
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 12063,
+                    "endColumn": 83,
+                    "endOffset": 12142
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 12147,
+                    "endColumn": 68,
+                    "endOffset": 12211
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 12216,
+                    "endColumn": 80,
+                    "endOffset": 12292
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 12297,
+                    "endColumn": 64,
+                    "endOffset": 12357
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 12362,
+                    "endColumn": 67,
+                    "endOffset": 12425
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 12430,
+                    "endColumn": 81,
+                    "endOffset": 12507
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12512,
+                    "endColumn": 81,
+                    "endOffset": 12589
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 12594,
+                    "endColumn": 81,
+                    "endOffset": 12671
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12676,
+                    "endColumn": 73,
+                    "endOffset": 12745
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12750,
+                    "endColumn": 102,
+                    "endOffset": 12848
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12853,
+                    "endColumn": 93,
+                    "endOffset": 12942
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12947,
+                    "endColumn": 67,
+                    "endOffset": 13010
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 13015,
+                    "endColumn": 84,
+                    "endOffset": 13095
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 13100,
+                    "endColumn": 98,
+                    "endOffset": 13194
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 13199,
+                    "endColumn": 87,
+                    "endOffset": 13282
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 13287,
+                    "endColumn": 69,
+                    "endOffset": 13352
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 13357,
+                    "endColumn": 96,
+                    "endOffset": 13449
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 13454,
+                    "endColumn": 83,
+                    "endOffset": 13533
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 13538,
+                    "endColumn": 97,
+                    "endOffset": 13631
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13636,
+                    "endColumn": 87,
+                    "endOffset": 13719
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13724,
+                    "endColumn": 91,
+                    "endOffset": 13811
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13816,
+                    "endColumn": 104,
+                    "endOffset": 13916
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13921,
+                    "endColumn": 98,
+                    "endOffset": 14015
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 14020,
+                    "endColumn": 60,
+                    "endOffset": 14076
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 14081,
+                    "endColumn": 81,
+                    "endOffset": 14158
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 14163,
+                    "endColumn": 73,
+                    "endOffset": 14232
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 14237,
+                    "endColumn": 69,
+                    "endOffset": 14302
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 14307,
+                    "endColumn": 45,
+                    "endOffset": 14348
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 14353,
+                    "endColumn": 58,
+                    "endOffset": 14407
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 14412,
+                    "endColumn": 55,
+                    "endOffset": 14463
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 14468,
+                    "endColumn": 59,
+                    "endOffset": 14523
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 14528,
+                    "endColumn": 78,
+                    "endOffset": 14602
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14607,
+                    "endColumn": 62,
+                    "endOffset": 14665
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14670,
+                    "endColumn": 75,
+                    "endOffset": 14741
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14746,
+                    "endColumn": 86,
+                    "endOffset": 14828
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14833,
+                    "endColumn": 74,
+                    "endOffset": 14903
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14908,
+                    "endColumn": 86,
+                    "endOffset": 14990
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14995,
+                    "endColumn": 66,
+                    "endOffset": 15057
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 15062,
+                    "endColumn": 62,
+                    "endOffset": 15120
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 15125,
+                    "endColumn": 57,
+                    "endOffset": 15178
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 15183,
+                    "endColumn": 58,
+                    "endOffset": 15237
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 15242,
+                    "endColumn": 64,
+                    "endOffset": 15302
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 15307,
+                    "endColumn": 71,
+                    "endOffset": 15374
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 15379,
+                    "endColumn": 74,
+                    "endOffset": 15449
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15454,
+                    "endColumn": 65,
+                    "endOffset": 15515
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 15520,
+                    "endColumn": 54,
+                    "endOffset": 15570
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15575,
+                    "endColumn": 54,
+                    "endOffset": 15625
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15630,
+                    "endColumn": 54,
+                    "endOffset": 15680
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15685,
+                    "endColumn": 87,
+                    "endOffset": 15768
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15773,
+                    "endColumn": 89,
+                    "endOffset": 15858
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15863,
+                    "endColumn": 84,
+                    "endOffset": 15943
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15948,
+                    "endColumn": 87,
+                    "endOffset": 16031
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 16036,
+                    "endColumn": 67,
+                    "endOffset": 16099
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 16104,
+                    "endColumn": 82,
+                    "endOffset": 16182
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 16187,
+                    "endColumn": 79,
+                    "endOffset": 16262
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 16267,
+                    "endColumn": 95,
+                    "endOffset": 16358
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 16363,
+                    "endColumn": 74,
+                    "endOffset": 16433
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 16438,
+                    "endColumn": 65,
+                    "endOffset": 16499
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 16504,
+                    "endColumn": 47,
+                    "endOffset": 16547
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 16552,
+                    "endColumn": 55,
+                    "endOffset": 16603
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 16608,
+                    "endColumn": 175,
+                    "endOffset": 16779
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16784,
+                    "endColumn": 57,
+                    "endOffset": 16837
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16842,
+                    "endColumn": 55,
+                    "endOffset": 16893
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16898,
+                    "endColumn": 51,
+                    "endOffset": 16945
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16950,
+                    "endColumn": 55,
+                    "endOffset": 17001
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 17006,
+                    "endColumn": 61,
+                    "endOffset": 17063
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 17068,
+                    "endColumn": 57,
+                    "endOffset": 17121
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 17126,
+                    "endColumn": 65,
+                    "endOffset": 17187
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 17192,
+                    "endColumn": 56,
+                    "endOffset": 17244
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 17249,
+                    "endColumn": 59,
+                    "endOffset": 17304
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 17309,
+                    "endColumn": 76,
+                    "endOffset": 17381
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 17386,
+                    "endColumn": 71,
+                    "endOffset": 17453
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 17458,
+                    "endColumn": 66,
+                    "endOffset": 17520
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 17525,
+                    "endColumn": 152,
+                    "endOffset": 17673
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 17678,
+                    "endColumn": 92,
+                    "endOffset": 17766
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 17771,
+                    "endColumn": 75,
+                    "endOffset": 17842
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 17847,
+                    "endColumn": 144,
+                    "endOffset": 17987
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 17992,
+                    "endColumn": 73,
+                    "endOffset": 18061
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 18066,
+                    "endColumn": 145,
+                    "endOffset": 18207
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 18212,
+                    "endColumn": 65,
+                    "endOffset": 18273
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 18278,
+                    "endColumn": 51,
+                    "endOffset": 18325
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 18330,
+                    "endColumn": 87,
+                    "endOffset": 18413
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 18418,
+                    "endColumn": 148,
+                    "endOffset": 18562
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 18567,
+                    "endColumn": 88,
+                    "endOffset": 18651
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 18656,
+                    "endColumn": 70,
+                    "endOffset": 18722
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 18727,
+                    "endColumn": 127,
+                    "endOffset": 18850
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 18855,
+                    "endColumn": 69,
+                    "endOffset": 18920
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 18925,
+                    "endColumn": 59,
+                    "endOffset": 18980
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 18985,
+                    "endColumn": 97,
+                    "endOffset": 19078
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 19083,
+                    "endColumn": 89,
+                    "endOffset": 19168
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 19173,
+                    "endColumn": 55,
+                    "endOffset": 19224
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 19229,
+                    "endColumn": 55,
+                    "endOffset": 19280
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 19285,
+                    "endColumn": 116,
+                    "endOffset": 19397
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 19402,
+                    "endColumn": 69,
+                    "endOffset": 19467
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 19472,
+                    "endColumn": 51,
+                    "endOffset": 19519
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 19524,
+                    "endColumn": 54,
+                    "endOffset": 19574
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 19579,
+                    "endColumn": 75,
+                    "endOffset": 19650
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 19655,
+                    "endColumn": 78,
+                    "endOffset": 19729
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 19734,
+                    "endColumn": 120,
+                    "endOffset": 19850
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 19855,
+                    "endColumn": 62,
+                    "endOffset": 19913
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 19918,
+                    "endColumn": 70,
+                    "endOffset": 19984
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 19989,
+                    "endColumn": 91,
+                    "endOffset": 20076
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 20081,
+                    "endColumn": 46,
+                    "endOffset": 20123
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 20128,
+                    "endColumn": 57,
+                    "endOffset": 20181
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 20186,
+                    "endColumn": 84,
+                    "endOffset": 20266
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 20271,
+                    "endColumn": 45,
+                    "endOffset": 20312
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 20317,
+                    "endColumn": 69,
+                    "endOffset": 20382
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 20387,
+                    "endColumn": 61,
+                    "endOffset": 20444
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 20449,
+                    "endColumn": 33,
+                    "endOffset": 20478
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 20483,
+                    "endColumn": 38,
+                    "endOffset": 20517
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 20522,
+                    "endColumn": 43,
+                    "endOffset": 20561
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 20566,
+                    "endColumn": 37,
+                    "endOffset": 20599
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 20604,
+                    "endColumn": 37,
+                    "endOffset": 20637
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 20642,
+                    "endColumn": 39,
+                    "endOffset": 20677
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 20682,
+                    "endColumn": 45,
+                    "endOffset": 20723
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 20728,
+                    "endColumn": 61,
+                    "endOffset": 20785
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 20790,
+                    "endColumn": 49,
+                    "endOffset": 20835
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 20840,
+                    "endColumn": 49,
+                    "endOffset": 20885
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 20890,
+                    "endColumn": 50,
+                    "endOffset": 20936
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 20941,
+                    "endColumn": 53,
+                    "endOffset": 20990
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 20995,
+                    "endColumn": 49,
+                    "endOffset": 21040
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 21045,
+                    "endColumn": 62,
+                    "endOffset": 21103
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 21108,
+                    "endColumn": 71,
+                    "endOffset": 21175
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 21180,
+                    "endColumn": 56,
+                    "endOffset": 21232
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 21237,
+                    "endColumn": 56,
+                    "endOffset": 21289
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 21294,
+                    "endColumn": 56,
+                    "endOffset": 21346
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 21351,
+                    "endColumn": 51,
+                    "endOffset": 21398
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 21403,
+                    "endColumn": 105,
+                    "endOffset": 21504
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 21509,
+                    "endColumn": 72,
+                    "endOffset": 21577
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 21582,
+                    "endColumn": 49,
+                    "endOffset": 21627
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 21632,
+                    "endColumn": 59,
+                    "endOffset": 21687
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 21692,
+                    "endColumn": 57,
+                    "endOffset": 21745
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 21750,
+                    "endColumn": 50,
+                    "endOffset": 21796
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 21801,
+                    "endColumn": 48,
+                    "endOffset": 21845
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 21850,
+                    "endColumn": 41,
+                    "endOffset": 21887
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 21892,
+                    "endColumn": 58,
+                    "endOffset": 21946
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 21951,
+                    "endColumn": 59,
+                    "endOffset": 22006
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 22011,
+                    "endColumn": 54,
+                    "endOffset": 22061
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 22066,
+                    "endColumn": 69,
+                    "endOffset": 22131
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 22136,
+                    "endColumn": 64,
+                    "endOffset": 22196
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 22201,
+                    "endColumn": 51,
+                    "endOffset": 22248
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 22253,
+                    "endColumn": 62,
+                    "endOffset": 22311
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 22316,
+                    "endColumn": 54,
+                    "endOffset": 22366
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 22371,
+                    "endColumn": 57,
+                    "endOffset": 22424
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 22429,
+                    "endColumn": 39,
+                    "endOffset": 22464
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 22469,
+                    "endColumn": 35,
+                    "endOffset": 22500
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 22505,
+                    "endColumn": 33,
+                    "endOffset": 22534
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 22539,
+                    "endColumn": 109,
+                    "endOffset": 22644
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 22649,
+                    "endColumn": 116,
+                    "endOffset": 22761
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 22766,
+                    "endColumn": 118,
+                    "endOffset": 22880
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 22885,
+                    "endColumn": 121,
+                    "endOffset": 23002
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 23007,
+                    "endColumn": 100,
+                    "endOffset": 23103
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 23108,
+                    "endColumn": 86,
+                    "endOffset": 23190
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 23195,
+                    "endColumn": 98,
+                    "endOffset": 23289
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 23294,
+                    "endColumn": 109,
+                    "endOffset": 23399
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 23404,
+                    "endColumn": 96,
+                    "endOffset": 23496
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 23501,
+                    "endColumn": 94,
+                    "endOffset": 23591
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 23596,
+                    "endColumn": 94,
+                    "endOffset": 23686
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 23691,
+                    "endColumn": 92,
+                    "endOffset": 23779
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 23784,
+                    "endColumn": 116,
+                    "endOffset": 23896
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 23901,
+                    "endColumn": 134,
+                    "endOffset": 24031
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 24036,
+                    "endColumn": 84,
+                    "endOffset": 24116
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 24121,
+                    "endColumn": 86,
+                    "endOffset": 24203
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 24208,
+                    "endColumn": 99,
+                    "endOffset": 24303
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 24308,
+                    "endColumn": 116,
+                    "endOffset": 24420
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 24425,
+                    "endColumn": 86,
+                    "endOffset": 24507
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 24512,
+                    "endColumn": 98,
+                    "endOffset": 24606
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 24611,
+                    "endColumn": 98,
+                    "endOffset": 24705
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 24710,
+                    "endColumn": 46,
+                    "endOffset": 24752
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 24757,
+                    "endColumn": 53,
+                    "endOffset": 24806
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 24811,
+                    "endColumn": 43,
+                    "endOffset": 24850
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 24855,
+                    "endColumn": 49,
+                    "endOffset": 24900
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 24905,
+                    "endColumn": 52,
+                    "endOffset": 24953
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 24958,
+                    "endColumn": 54,
+                    "endOffset": 25008
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 25013,
+                    "endColumn": 51,
+                    "endOffset": 25060
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 25065,
+                    "endColumn": 53,
+                    "endOffset": 25114
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 25119,
+                    "endColumn": 49,
+                    "endOffset": 25164
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 25169,
+                    "endColumn": 61,
+                    "endOffset": 25226
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 25231,
+                    "endColumn": 45,
+                    "endOffset": 25272
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 25277,
+                    "endColumn": 43,
+                    "endOffset": 25316
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 25321,
+                    "endColumn": 49,
+                    "endOffset": 25366
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 25371,
+                    "endColumn": 46,
+                    "endOffset": 25413
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 25418,
+                    "endColumn": 49,
+                    "endOffset": 25463
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 25468,
+                    "endColumn": 47,
+                    "endOffset": 25511
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 25516,
+                    "endColumn": 50,
+                    "endOffset": 25562
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 25567,
+                    "endColumn": 48,
+                    "endOffset": 25611
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 25616,
+                    "endColumn": 44,
+                    "endOffset": 25656
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 25661,
+                    "endColumn": 46,
+                    "endOffset": 25703
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 25708,
+                    "endColumn": 45,
+                    "endOffset": 25749
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 25754,
+                    "endColumn": 52,
+                    "endOffset": 25802
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 25807,
+                    "endColumn": 54,
+                    "endOffset": 25857
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 25862,
+                    "endColumn": 61,
+                    "endOffset": 25919
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 25924,
+                    "endColumn": 158,
+                    "endOffset": 26078
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 26083,
+                    "endColumn": 136,
+                    "endOffset": 26215
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 26220,
+                    "endColumn": 105,
+                    "endOffset": 26321
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\bdf8db6eafa157969623d24a6825c2fc2e3c8a06\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 26326,
+                    "endColumn": 97,
+                    "endOffset": 26419
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\bdf8db6eafa157969623d24a6825c2fc2e3c8a06\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 26424,
+                    "endColumn": 45,
+                    "endOffset": 26465
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 26470,
+                    "endColumn": 46,
+                    "endOffset": 26512
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 26517,
+                    "endColumn": 61,
+                    "endOffset": 26574
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 26579,
+                    "endColumn": 65,
+                    "endOffset": 26640
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 26645,
+                    "endColumn": 75,
+                    "endOffset": 26716
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 26721,
+                    "endColumn": 72,
+                    "endOffset": 26789
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 26794,
+                    "endColumn": 73,
+                    "endOffset": 26863
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 26868,
+                    "endColumn": 53,
+                    "endOffset": 26917
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 26922,
+                    "endColumn": 117,
+                    "endOffset": 27035
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 27040,
+                    "endColumn": 60,
+                    "endOffset": 27096
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 27101,
+                    "endColumn": 53,
+                    "endOffset": 27150
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 27155,
+                    "endColumn": 57,
+                    "endOffset": 27208
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 27213,
+                    "endColumn": 61,
+                    "endOffset": 27270
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 27275,
+                    "endColumn": 74,
+                    "endOffset": 27345
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 27350,
+                    "endColumn": 137,
+                    "endOffset": 27483
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 27488,
+                    "endColumn": 68,
+                    "endOffset": 27552
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 27557,
+                    "endColumn": 69,
+                    "endOffset": 27622
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 27627,
+                    "endColumn": 90,
+                    "endOffset": 27713
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 27718,
+                    "endColumn": 123,
+                    "endOffset": 27837
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 27842,
+                    "endColumn": 33,
+                    "endOffset": 27871
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 27876,
+                    "endColumn": 81,
+                    "endOffset": 27953
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 27958,
+                    "endColumn": 47,
+                    "endOffset": 28001
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 28006,
+                    "endColumn": 56,
+                    "endOffset": 28058
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 28063,
+                    "endColumn": 56,
+                    "endOffset": 28115
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 28120,
+                    "endColumn": 65,
+                    "endOffset": 28181
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 28186,
+                    "endColumn": 73,
+                    "endOffset": 28255
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 28260,
+                    "endColumn": 109,
+                    "endOffset": 28365
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 28370,
+                    "endColumn": 100,
+                    "endOffset": 28466
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-es-rUS\\values-es-rUS.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 28471,
+                    "endColumn": 33,
+                    "endOffset": 28500
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 28505,
+                    "endColumn": 33,
+                    "endOffset": 28534
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 28539,
+                    "endColumn": 49,
+                    "endOffset": 28584
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 28589,
+                    "endColumn": 73,
+                    "endOffset": 28658
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 28663,
+                    "endColumn": 76,
+                    "endOffset": 28735
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 28740,
+                    "endColumn": 68,
+                    "endOffset": 28804
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 28809,
+                    "endColumn": 51,
+                    "endOffset": 28856
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 28861,
+                    "endColumn": 38,
+                    "endOffset": 28895
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 28900,
+                    "endColumn": 54,
+                    "endOffset": 28950
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 28955,
+                    "endColumn": 39,
+                    "endOffset": 28990
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 28995,
+                    "endColumn": 40,
+                    "endOffset": 29031
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 29036,
+                    "endColumn": 40,
+                    "endOffset": 29072
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 29077,
+                    "endColumn": 41,
+                    "endOffset": 29114
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 29119,
+                    "endColumn": 41,
+                    "endOffset": 29156
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 29161,
+                    "endColumn": 39,
+                    "endOffset": 29196
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 29201,
+                    "endColumn": 57,
+                    "endOffset": 29254
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 29259,
+                    "endColumn": 41,
+                    "endOffset": 29296
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 29301,
+                    "endColumn": 41,
+                    "endOffset": 29338
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 29343,
+                    "endColumn": 46,
+                    "endOffset": 29385
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 29390,
+                    "endColumn": 57,
+                    "endOffset": 29443
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 29448,
+                    "endColumn": 33,
+                    "endOffset": 29477
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 29482,
+                    "endColumn": 50,
+                    "endOffset": 29528
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 16128,
+                        "endColumn": 50,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 29533,
+                    "endColumn": 56,
+                    "endOffset": 29585
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 29590,
+                    "endColumn": 62,
+                    "endOffset": 29648
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 29653,
+                    "endColumn": 50,
+                    "endOffset": 29699
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 29704,
+                    "endColumn": 88,
+                    "endOffset": 29788
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 29793,
+                    "endColumn": 52,
+                    "endOffset": 29841
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 29846,
+                    "endColumn": 67,
+                    "endOffset": 29909
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 29914,
+                    "endColumn": 70,
+                    "endOffset": 29980
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 29985,
+                    "endColumn": 63,
+                    "endOffset": 30044
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 30049,
+                    "endColumn": 102,
+                    "endOffset": 30147
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 30152,
+                    "endColumn": 68,
+                    "endOffset": 30216
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 30221,
+                    "endColumn": 106,
+                    "endOffset": 30323
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\c956b60b15277d44f1146383a0242a805436bb8a\\output\\res\\values-es-rUS\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 30328,
+                    "endColumn": 33,
+                    "endOffset": 30357
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\strings_calendar.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 30362,
+                    "endLine": 414,
+                    "endColumn": 12,
+                    "endOffset": 30462
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\values-es-rUS\\styles_text.xml"
+                }
+            }
+        ]
+    }
+]

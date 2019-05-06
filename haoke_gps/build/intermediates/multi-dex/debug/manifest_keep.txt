@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:83
+-keep class com.haoke.application.MyApplication { <init>(...); }
+

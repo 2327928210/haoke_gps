@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_title">
+        <item>未知信息</item>
+        <item>低电量</item> 
+        <item>ACC开</item> 
+        <item>ACC关</item> 
+        <item>外接电源线断开</item> 
+        <item>车门打开</item> 
+        <item>车辆超速</item> 
+        <item>SOS报警</item> 
+        <item>进入GPS盲区</item> 
+        <item>汽车发生震动</item> 
+        <item>汽车异常移动</item> 
+        <item>驶出GPS盲区</item> 
+        <item>编号1的围栏出围栏</item> 
+        <item>编号1的围栏入围栏</item> 
+        <item>编号2的围栏出围栏</item> 
+        <item>编号2的围栏入围栏</item> 
+        <item>编号3的围栏出围栏</item> 
+        <item>编号3的围栏入围栏</item> 
+        <item>编号4的围栏出围栏</item> 
+        <item>编号4的围栏入围栏</item> 
+        <item>编号5的围栏出围栏</item> 
+        <item>编号5的围栏入围栏</item> 
+        <item>设备已被摘除</item> 
+    </string-array>
+    <string-array name="device_mode">
+        <item>连续追踪定位模式</item>
+        <item>间隔时间上传模式</item>
+        <item>固定时间点上传模式</item>
+    </string-array>
+    <string-array name="device_mode2">
+        <item>间隔时间上传模式</item>
+        <item>固定时间点上传模式</item>
+    </string-array>
+    <string-array name="location_time">
+        <item>20秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="location_time_gt12">
+        <item>连续工作模式</item>
+        <item>10分钟</item>
+        <item>30分钟</item>
+        <item>60分钟</item>
+        <item>180分钟</item>
+        <item>1440分钟</item>
+    </string-array>
+    <string-array name="location_time_gt3a">
+        <item>1分钟</item>
+        <item>10分钟</item>
+        <item>60分钟</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string name="Please_bond_device">请绑定设备</string>
+    <string name="about_us">关于我们</string>
+    <string name="apn">APN设置</string>
+    <string name="apn_apn">APN：</string>
+    <string name="apn_name">用户名：</string>
+    <string name="apn_password">密码：</string>
+    <string name="apn_sim">SIM卡号：</string>
+    <string name="app_name">SPIDER</string>
+    <string name="april">四月</string>
+    <string name="august">八月</string>
+    <string name="binding">绑定</string>
+    <string name="binding_please_enter_imei_number">请输入IMEI号进行绑定</string>
+    <string name="binding_present">当前设备:</string>
+    <string name="cue_APN_is_no_empty">APN不能为空</string>
+    <string name="cue_SIM_is_no_empty">SIM不能为空</string>
+    <string name="cue_bonded_successful">绑定成功</string>
+    <string name="cue_click_again_to_exit">再按一次退出程序</string>
+    <string name="cue_code_is_no_empty">验证码不能为空</string>
+    <string name="cue_content_is_no_empty">内容不能为空</string>
+    <string name="cue_edit_successful">修改成功</string>
+    <string name="cue_email_is_no_empty">邮箱不能为空</string>
+    <string name="cue_is_no_correct">格式不正确</string>
+    <string name="cue_is_no_max">长度不得大于16</string>
+    <string name="cue_is_no_max_16">长度不得大于16</string>
+    <string name="cue_is_no_max_30">长度不得大于30</string>
+    <string name="cue_is_no_max_40">长度不得大于40</string>
+    <string name="cue_login_successful">登录成功</string>
+    <string name="cue_macid_is_no_correct">设备号长度不正确</string>
+    <string name="cue_macid_is_no_empty">设备号不能为空</string>
+    <string name="cue_network_anomaly">网络异常</string>
+    <string name="cue_nickname_is_no_empty">昵称不能为空</string>
+    <string name="cue_nickname_is_no_max">昵称长度不得大于16</string>
+    <string name="cue_no_device_info">未获取到设备信息</string>
+    <string name="cue_no_network">网络无法连接</string>
+    <string name="cue_password_is_no_16_bits">密码不能超过16位</string>
+    <string name="cue_password_is_no_confirm">两次密碼不一致</string>
+    <string name="cue_password_is_no_correct">密碼长度不正确</string>
+    <string name="cue_password_is_no_empty">密碼不能为空</string>
+    <string name="cue_phone_is_no_Binding">请先绑定设备！</string>
+    <string name="cue_phone_is_no_correct">手机号码格式不正确</string>
+    <string name="cue_phone_is_no_empty">手机号码不能为空</string>
+    <string name="cue_please_wait">请稍候</string>
+    <string name="cue_recording">上次录音未结束.请等待</string>
+    <string name="cue_set_name">输入你想要的名称</string>
+    <string name="cue_unbonded_successful">解绑成功</string>
+    <string name="december">十二月</string>
+    <string name="device_alram">报警功能</string>
+    <string name="device_alram_acc">ACC报警</string>
+    <string name="device_alram_blind">盲区报警</string>
+    <string name="device_alram_displacement">位移报警</string>
+    <string name="device_alram_door">门报警</string>
+    <string name="device_alram_electricity">低电量报警</string>
+    <string name="device_alram_jones">外电断电报警</string>
+    <string name="device_alram_remove">摘除报警</string>
+    <string name="device_alram_remove_tag">摘除报警工作模式</string>
+    <string name="device_alram_shock">震动报警</string>
+    <string name="device_alram_shock_1">一级</string>
+    <string name="device_alram_shock_2">二级</string>
+    <string name="device_alram_shock_3">三级</string>
+    <string name="device_binding">设备绑定</string>
+    <string name="device_config">设备设定</string>
+    <string name="device_config_1inqing">亲情号码设置</string>
+    <string name="device_config_mode">设备工作模式</string>
+    <string name="device_config_num1">号码1</string>
+    <string name="device_config_num2">号码2</string>
+    <string name="device_config_num3">号码3</string>
+    <string name="device_config_phonenum">设备电话号码设置</string>
+    <string name="device_config_sosnum">SOS电话号码设置</string>
+    <string name="device_config_spacing">设备上传间隔</string>
+    <string name="device_config_tonghua">回拨号码设置</string>
+    <string name="device_info">设备信息</string>
+    <string name="device_info_Faster_than_20">速度超过20KM/H</string>
+    <string name="device_info_GPS_not_positioned">GPS未定位</string>
+    <string name="device_info_Oil_break_power_off">断油断电</string>
+    <string name="device_info__confirm">是否远程关机？</string>
+    <string name="device_info__is_chongqi">是否重启？</string>
+    <string name="device_info_acc">Acc</string>
+    <string name="device_info_battery">电池</string>
+    <string name="device_info_break_power_confirm">是否执行断油断电？</string>
+    <string name="device_info_chongqi">重启</string>
+    <string name="device_info_defense">布防</string>
+    <string name="device_info_door">门</string>
+    <string name="device_info_door_close">关锁</string>
+    <string name="device_info_door_open">开锁</string>
+    <string name="device_info_factory">恢复出厂设置</string>
+    <string name="device_info_factory_confirm">1.所有参数将被重置\n2.油电状态恢复默认</string>
+    <string name="device_info_guanji">远程关机</string>
+    <string name="device_info_imei">IMEI</string>
+    <string name="device_info_ks">是否确定开锁？</string>
+    <string name="device_info_mode">请选择工作模式：</string>
+    <string name="device_info_mode_date">时间点：</string>
+    <string name="device_info_mode_date_tag">(设置之后设备每天按照设置的时间点上传一个位置。)</string>
+    <string name="device_info_mode_default">(默认时间间隔60秒)</string>
+    <string name="device_info_mode_second">时间间隔：</string>
+    <string name="device_info_mode_second_tag">(默认时间间隔60秒，范围:10-1800。)</string>
+    <string name="device_info_mode_time">时间间隔：</string>
+    <string name="device_info_mode_time_tag">(默认时间间隔1440分钟，范围:5-7200。)</string>
+    <string name="device_info_mydevice">我的设备</string>
+    <string name="device_info_name">名称</string>
+    <string name="device_info_nav_confirm">是否执行导航？</string>
+    <string name="device_info_new">未获取到设备信息,请点击同步获取最新数据</string>
+    <string name="device_info_recording">录音长度设置</string>
+    <string name="device_info_remove_time">工作时间：</string>
+    <string name="device_info_remove_time_tag">(默认时间间隔20分钟，范围:3-60。)</string>
+    <string name="device_info_setup">设备设定</string>
+    <string name="device_info_unbound">解除绑定</string>
+    <string name="device_info_unbound_confirm">是否解除绑定当前设备？</string>
+    <string name="device_info_unbound_version_new">设备已是最新版本！</string>
+    <string name="device_info_version">版本号</string>
+    <string name="device_info_version_mcu">MCU</string>
+    <string name="device_install_goolemap">您尚未安装谷歌地图或地图版本过低</string>
+    <string name="device_no_line">设备不在线 </string>
+    <string name="device_recording_unit">秒</string>
+    <string name="device_synchro">同步</string>
+    <string name="device_twocode">条形码扫描</string>
+    <string name="electronic_300">半径不得小于300</string>
+    <string name="electronic_core">请点击地图设置电子围栏中心点！</string>
+    <string name="electronic_fence">电子围栏</string>
+    <string name="electronic_fence_add_ele">添加（最多5个）</string>
+    <string name="electronic_fence_max_ele">电子围栏最多添加5个</string>
+    <string name="electronic_meter">米</string>
+    <string name="electronic_name">备注</string>
+    <string name="electronic_zero">半径不能为0</string>
+    <string name="february">二月</string>
+    <string name="forgot_password">忘记密码</string>
+    <string name="forgot_reset">重置密码</string>
+    <string name="fr">五</string>
+    <string name="help">帮助</string>
+    <string name="january">一月</string>
+    <string name="july">七月</string>
+    <string name="june">六月</string>
+    <string name="language">CN</string>
+    <string name="location_acc">ACC：</string>
+    <string name="location_bvalid">定位方式：</string>
+    <string name="location_bvalid_1">GPS</string>
+    <string name="location_bvalid_2">LBS</string>
+    <string name="location_bvalid_4">WiFi</string>
+    <string name="location_dianya">电压：</string>
+    <string name="location_door">门：</string>
+    <string name="location_electricity">电量：</string>
+    <string name="location_fail">设备无响应</string>
+    <string name="location_gps_time">定位时间：</string>
+    <string name="location_gsm_time">信号时间：</string>
+    <string name="location_location">位置：</string>
+    <string name="location_nav">导航</string>
+    <string name="location_no_data">暂无数据，下拉刷新可获取最新数据</string>
+    <string name="location_off_line">已发送离线指令</string>
+    <string name="location_state">状态：</string>
+    <string name="location_state_offline">离线</string>
+    <string name="location_state_online">在线</string>
+    <string name="location_success">成功</string>
+    <string name="location_time">时间：</string>
+    <string name="login">登录</string>
+    <string name="login_account">输入账号</string>
+    <string name="login_email">输入邮箱</string>
+    <string name="login_login">登录</string>
+    <string name="login_no_userinfo">暂无用户数据</string>
+    <string name="login_passeord">输入密码</string>
+    <string name="main_location">定位</string>
+    <string name="main_push_message">警报列表</string>
+    <string name="main_sound_monitor">声音监听</string>
+    <string name="main_sound_monitor_bt">监听</string>
+    <string name="march">三月</string>
+    <string name="may">五月</string>
+    <string name="mo">一</string>
+    <string name="msg_error_google_play_services_failed">Google Play Services不可用</string>
+    <string name="music_End">播放结束</string>
+    <string name="music_Success">下载成功</string>
+    <string name="music_call">通话</string>
+    <string name="music_fail">下载失败</string>
+    <string name="music_macid">IMEI号：</string>
+    <string name="music_play">正在播放</string>
+    <string name="music_push">点击播放</string>
+    <string name="music_recording">录音</string>
+    <string name="music_start">开始下载</string>
+    <string name="music_time">录音时长：</string>
+    <string name="november">十一月</string>
+    <string name="october">十月</string>
+    <string name="other_cancel">取消</string>
+    <string name="other_close">关</string>
+    <string name="other_delete">删除</string>
+    <string name="other_ensure">确定</string>
+    <string name="other_info">信息</string>
+    <string name="other_nav">导航</string>
+    <string name="other_open">开</string>
+    <string name="other_save">保存</string>
+    <string name="other_set">设置</string>
+    <string name="payment">软件支付</string>
+    <string name="permission">授权</string>
+    <string name="permission_active">手动授权</string>
+    <string name="permission_camera">为了保证应用正常运行，需要获取相机权限</string>
+    <string name="permission_open">为了保证应用正常运行，请打开权限</string>
+    <string name="push">推送设置</string>
+    <string name="register">注册</string>
+    <string name="register_Success">注册成功</string>
+    <string name="register_code">验    证    码:</string>
+    <string name="register_confirm_password">确认密码:</string>
+    <string name="register_device_name">设备名称:</string>
+    <string name="register_device_number">设    备    号:</string>
+    <string name="register_email">邮\t\t箱:</string>
+    <string name="register_get_Agreement">我已经阅读协议并同意接受《用户协议》</string>
+    <string name="register_get_code">获取验证码</string>
+    <string name="register_nickname">昵\t\t称:</string>
+    <string name="register_password">密\t\t码:</string>
+    <string name="register_phone">手\t\t机:</string>
+    <string name="sa">六</string>
+    <string name="september">九月</string>
+    <string name="setting">软件设置</string>
+    <string name="setting_updata">更新</string>
+    <string name="setting_version">APP版本号</string>
+    <string name="setting_version_new">APP已是最新版本！</string>
+    <string name="setting_version_new_up">发现新版本，是否立即更新</string>
+    <string name="su">日</string>
+    <string name="th">四</string>
+    <string name="tra">轨迹</string>
+    <string name="tra_cue_1">日期不能超过当天</string>
+    <string name="tra_cue_2">天数范围必须为1~3天</string>
+    <string name="tra_cue_3">时间格式不正确</string>
+    <string name="tra_custom">自定义</string>
+    <string name="tra_day">日</string>
+    <string name="tra_end_time">结束时间</string>
+    <string name="tra_fast">x3</string>
+    <string name="tra_lat">Lat：</string>
+    <string name="tra_lng">Lng：</string>
+    <string name="tra_medium">x2</string>
+    <string name="tra_month">月</string>
+    <string name="tra_slow">x1</string>
+    <string name="tra_start_time">开始时间</string>
+    <string name="tra_today">今天</string>
+    <string name="tra_year">年</string>
+    <string name="tra_yesterday">昨天</string>
+    <string name="tra_yesterday_before">前天</string>
+    <string name="tu">二</string>
+    <string name="url_error">异常</string>
+    <string name="user_info">用户信息</string>
+    <string name="user_info_account">账号</string>
+    <string name="user_info_logout">退出登录</string>
+    <string name="user_info_logout_confirm">是否退出当前账号？</string>
+    <string name="user_info_nikename">昵称</string>
+    <string name="user_info_password">修改密码</string>
+    <string name="user_initial_password">原始密码:</string>
+    <string name="user_new_password">新    密    码:</string>
+    <string name="viewfinderview_status_text1">请将设备条形码置于方框内</string>
+    <string name="viewfinderview_status_text2">即可自动扫描</string>
+    <string name="we">三</string>
+    <style name="textSize">
+        <item name="android:textSize">@dimen/layout_x_18</item>
+    </style>
+</resources>

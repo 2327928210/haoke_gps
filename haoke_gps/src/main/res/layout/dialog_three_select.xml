@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/layout_x_20"
+    android:paddingRight="@dimen/layout_x_20" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_bg_dialog"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/layout_y_100"
+                android:padding="@dimen/layout_x_20" >
+
+                <TextView
+                    android:id="@+id/tv_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/layout_x_25" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="@android:color/darker_gray" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/layout_y_55"
+                android:layout_gravity="bottom"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/positiveButton"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/layout_y_50"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/other_nav"
+                    android:textColor="@color/black" />
+
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="@color/text_gray" />
+
+                <TextView
+                    android:id="@+id/devInFoButton"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/layout_y_50"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/other_info"
+                    android:textColor="@color/black" />
+
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="@color/text_gray" />
+
+                <TextView
+                    android:id="@+id/negativeButton"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/layout_y_50"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/other_cancel"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

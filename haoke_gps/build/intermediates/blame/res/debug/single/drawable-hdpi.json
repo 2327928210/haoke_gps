@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_setting.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_setting.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_news_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_news_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\userinfo_phone.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\userinfo_phone.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_car_many_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_car_many_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_next.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_next.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grey.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\grey.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\slding.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\slding.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_phone.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_phone.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\location_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_left_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_left_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\userinfo_name.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\userinfo_name.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_route_result_end_point.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\nav_route_result_end_point.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\register_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_route_result_start_point.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\nav_route_result_start_point.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_imei.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_imei.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_power.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_power.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_updata_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\location_updata_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_setup.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_setup.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_news_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_news_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_code_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\register_code_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_defense.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_defense.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_recording.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_recording.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\try_play.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\try_play.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_ele.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_ele.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_calendar_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ico_calendar_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\blue.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_location_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_location_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ele_add_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ele_add_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mycar_off.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\mycar_off.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_left_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_left_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_agreement_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\user_agreement_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\myloading.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\myloading.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_bg.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\start_bg.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_car_less_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_car_less_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_trajectory_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ico_trajectory_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_battery.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_battery.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_code.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\register_code.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mycar.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\mycar.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_music_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_music_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_left.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\calendar_left.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_2.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_2.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\register_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ele_sub_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ele_sub_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_version.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\setting_version.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_user.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_user.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\door_open2.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\door_open2.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_logo.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_right.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\calendar_right.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flowdetails_qrcode.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\flowdetails_qrcode.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_bg.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\switch_bg.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_music_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_music_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_unbound.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_unbound.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\white_next.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\white_next.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_1.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_1.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_help.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\setting_help.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_light.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\scan_light.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back1.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\back1.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_car_less_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_car_less_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_about.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\setting_about.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_bound.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_bound.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_factory.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_factory.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\point.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\password_logo.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\password_logo.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xq_yuchengguanji.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\xq_yuchengguanji.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shez_delete.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\shez_delete.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down1.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\down1.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\door_close2.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\door_close2.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\try_pause.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\try_pause.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_car_off.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ico_car_off.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_updata_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\location_updata_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\userinfo_password.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\userinfo_password.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_user.9.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\select_user.9.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\door_close1.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\door_close1.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_bottom.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_bottom.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ele_sub_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ele_sub_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_car_many_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_car_many_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_acc.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_acc.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_version.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_version.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_car.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ico_car.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh1.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\refresh1.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_user_avatar.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\left_user_avatar.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_location_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_location_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\door_open1.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\door_open1.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ele_add.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ele_add.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jpush_notification_icon.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\jpush_notification_icon.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_agreement_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\user_agreement_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device_info_door.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\device_info_door.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_push.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\setting_push.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_left_bg.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\main_left_bg.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\location_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\register_code_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\register_code_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_calendar_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ico_calendar_n.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_trajectory_p.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ico_trajectory_p.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\nav.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ele_add_n.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\ele_add_n.png"
+    }
+]

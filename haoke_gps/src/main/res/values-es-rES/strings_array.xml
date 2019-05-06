@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="location_time_gt12">
+        <item>El modo de trabajo de seguimiento continuo</item>
+        <item>10min</item>
+        <item>30min</item>
+        <item>60min</item>
+        <item>180min</item>
+        <item>1440min</item>
+    </string-array>
+    <string-array name="device_mode2">
+         <item>Carga de modo de intervalos de tiempo</item>
+        <item>Carga de modo de tiempo fijo</item>
+    </string-array>
+    <string-array name="location_time_gt3a">
+        <item>1min</item>
+        <item>10min</item>
+        <item>60min</item>
+    </string-array>
+    <string-array name="device_mode">
+        <item>El modo de trabajo de seguimiento continuo</item>
+        <item>Carga de modo de intervalos de tiempo</item>
+        <item>Carga de modo de tiempo fijo</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="location_time">
+        <item>20s</item>
+        <item>60s</item>
+        <item>10m</item>
+        <item>1h</item>
+    </string-array>
+    <string-array name="alert_title">
+        <item>Unknown information</item>
+        <item>Low battery</item>
+        <item>ACC ON</item>
+        <item>ACC OFF</item>
+        <item>The external power cord drops</item>
+        <item>Door Open</item>
+        <item>Speeding</item>
+        <item>SOS alarm</item>
+        <item>Go into GPS blind area</item>
+        <item>Vibrates</item>
+        <item>Abnormal movement</item>
+        <item>Go out GPS blind area</item>
+        <item>Number 1 of the fence out of the fence</item>
+        <item>Number 1 of the fence into the fence</item>
+        <item>Number 2 of the fence out of the fence</item>
+        <item>Number 2 of the fence into the fence</item>
+        <item>Number 3 of the fence out of the fence</item>
+        <item>Number 3 of the fence into the fence</item>
+        <item>Number 4 of the fence out of the fence</item>
+        <item>Number 4 of the fence into the fence</item>
+        <item>Number 5 of the fence out of the fence</item>
+        <item>Number 5 of the fence into the fence</item>
+        <item>El dispositivo ha sido derribado</item> <!-- 112 -->
+    </string-array>
+
+</resources>
