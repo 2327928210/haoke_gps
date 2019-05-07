@@ -95,6 +95,12 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Laitteet"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Tyhjennä haku."</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Haku"</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">Päivitä vetämällä ylös…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Päivitä vetämällä alas…</string>
+    <string name="pull_to_refresh_refreshing_label">Päivitetään…</string>
+    <string name="pull_to_refresh_release_label">Päivitä vapauttamalla…</string>
     <string msgid="368094699078615544" name="s1">"Tallenna kuva"</string>
     <string msgid="4550830452390689489" name="s2">"Myönnetäänkö mainokselle oikeus tallentaa kuva galleriaan?"</string>
     <string msgid="2435407834265420668" name="s3">"Hyväksy"</string>

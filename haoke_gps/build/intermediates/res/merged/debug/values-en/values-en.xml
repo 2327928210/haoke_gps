@@ -23,7 +23,7 @@
         <item>Number 4 of the fence into the fence</item>
         <item>Number 5 of the fence out of the fence</item>
         <item>Number 5 of the fence into the fence</item>
-        <item>The device has been torn dowm</item> 
+        <item>The device has been torn dowm</item> <!-- 112 -->
     </string-array>
     <string-array name="device_mode">
         <item>Continuous tracking type</item>

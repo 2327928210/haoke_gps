@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--&lt;!&ndash; 倾斜度 &ndash;&gt;-->
+    <!--<gradient-->
+        <!--android:angle="180"-->
+        <!--android:endColor="@color/white"-->
+        <!--android:startColor="@color/white" />-->
+
+    <!--&lt;!&ndash; 线宽度 &ndash;&gt;-->
+    <!--<stroke-->
+        <!--android:width="1px"-->
+        <!--android:color="@color/text_gray" />-->
+
+    <solid android:color="@drawable/white_bt_shape" />
+
+    <!-- 圆角度 -->
+    <corners
+        android:bottomLeftRadius="10px"
+        android:bottomRightRadius="10px"
+        android:topLeftRadius="10px"
+        android:topRightRadius="10px" />
+
+</shape>

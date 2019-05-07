@@ -95,6 +95,9 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"מכשירים"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"נקה את החיפוש"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"חיפוש"</string>
+    <string name="pull_to_refresh_pull_label">משוך לרענון…</string>
+    <string name="pull_to_refresh_refreshing_label">טוען…</string>
+    <string name="pull_to_refresh_release_label">שחרר לרענון…</string>
     <string msgid="368094699078615544" name="s1">"שמור את התמונה"</string>
     <string msgid="4550830452390689489" name="s2">"האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?"</string>
     <string msgid="2435407834265420668" name="s3">"קבל"</string>

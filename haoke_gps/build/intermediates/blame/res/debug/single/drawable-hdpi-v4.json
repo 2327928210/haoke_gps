@@ -68,6 +68,10 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -138,10 +142,6 @@
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_stop_dark.png",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1b85088d9617ed684f96383656aee1f784a9a29d\\output\\res\\drawable-hdpi-v4\\ic_media_stop_dark.png"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
@@ -244,6 +244,10 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
     },
     {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -282,10 +286,6 @@
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_stop_light.png",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1b85088d9617ed684f96383656aee1f784a9a29d\\output\\res\\drawable-hdpi-v4\\ic_media_stop_light.png"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_speaker_light.png",
@@ -546,6 +546,10 @@
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause_light.png",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable-hdpi-v4\\ic_media_pause_light.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",

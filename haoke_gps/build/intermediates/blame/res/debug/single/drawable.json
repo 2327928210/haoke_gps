@@ -24,6 +24,10 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kuang.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_kuang.xml"
+    },
+    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_snackbar_background.xml"
     },
@@ -48,10 +52,6 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1b85088d9617ed684f96383656aee1f784a9a29d\\output\\res\\drawable\\mr_media_stop_light.xml"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_left.xml",
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_left.xml"
     },
@@ -70,6 +70,10 @@
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\try_plays.xml",
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\try_plays.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
@@ -204,6 +208,10 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\progress_bar_states.xml"
     },
@@ -240,10 +248,6 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\3f163e9b55a520307734dea94cf869960e01e486\\output\\res\\drawable\\tooltip_frame_light.xml"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
@@ -254,10 +258,6 @@
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\1b85088d9617ed684f96383656aee1f784a9a29d\\output\\res\\drawable\\mr_media_stop_dark.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
@@ -570,10 +570,6 @@
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_play_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\3f163e9b55a520307734dea94cf869960e01e486\\output\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",

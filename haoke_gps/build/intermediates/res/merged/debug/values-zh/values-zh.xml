@@ -2,28 +2,28 @@
 <resources>
     <string-array name="alert_title">
         <item>未知信息</item>
-        <item>低电量</item> 
-        <item>ACC开</item> 
-        <item>ACC关</item> 
-        <item>外接电源线断开</item> 
-        <item>车门打开</item> 
-        <item>车辆超速</item> 
-        <item>SOS报警</item> 
-        <item>进入GPS盲区</item> 
-        <item>汽车发生震动</item> 
-        <item>汽车异常移动</item> 
-        <item>驶出GPS盲区</item> 
-        <item>编号1的围栏出围栏</item> 
-        <item>编号1的围栏入围栏</item> 
-        <item>编号2的围栏出围栏</item> 
-        <item>编号2的围栏入围栏</item> 
-        <item>编号3的围栏出围栏</item> 
-        <item>编号3的围栏入围栏</item> 
-        <item>编号4的围栏出围栏</item> 
-        <item>编号4的围栏入围栏</item> 
-        <item>编号5的围栏出围栏</item> 
-        <item>编号5的围栏入围栏</item> 
-        <item>设备已被摘除</item> 
+        <item>低电量</item> <!-- 101 -->
+        <item>ACC开</item> <!-- 102 -->
+        <item>ACC关</item> <!-- 103 -->
+        <item>外接电源线断开</item> <!-- 104 -->
+        <item>车门打开</item> <!-- 105 -->
+        <item>车辆超速</item> <!-- 106 -->
+        <item>SOS报警</item> <!-- 107 -->
+        <item>进入GPS盲区</item> <!-- 108 -->
+        <item>汽车发生震动</item> <!-- 109 -->
+        <item>汽车异常移动</item> <!-- 110 -->
+        <item>驶出GPS盲区</item> <!-- 111 -->
+        <item>编号1的围栏出围栏</item> <!-- 210 -->
+        <item>编号1的围栏入围栏</item> <!-- 211 -->
+        <item>编号2的围栏出围栏</item> <!-- 220 -->
+        <item>编号2的围栏入围栏</item> <!-- 221 -->
+        <item>编号3的围栏出围栏</item> <!-- 230 -->
+        <item>编号3的围栏入围栏</item> <!-- 231 -->
+        <item>编号4的围栏出围栏</item> <!-- 240 -->
+        <item>编号4的围栏入围栏</item> <!-- 241 -->
+        <item>编号5的围栏出围栏</item> <!-- 250 -->
+        <item>编号5的围栏入围栏</item> <!-- 251 -->
+        <item>设备已被摘除</item> <!-- 112 -->
     </string-array>
     <string-array name="device_mode">
         <item>连续追踪定位模式</item>
@@ -253,6 +253,9 @@
     <string name="permission_active">手动授权</string>
     <string name="permission_camera">为了保证应用正常运行，需要获取相机权限</string>
     <string name="permission_open">为了保证应用正常运行，请打开权限</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入…</string>
+    <string name="pull_to_refresh_release_label">放开以刷新…</string>
     <string name="push">推送设置</string>
     <string name="register">注册</string>
     <string name="register_Success">注册成功</string>

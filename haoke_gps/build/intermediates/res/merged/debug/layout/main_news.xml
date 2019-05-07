@@ -41,25 +41,20 @@
         </ScrollView>
     </android.support.v4.widget.SwipeRefreshLayout>
 
-    <android.support.v4.widget.SwipeRefreshLayout
-        android:id="@+id/swipe_refresh"
+    <com.handmark.pulltorefresh.library.PullToRefreshGridView xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pullToRefreshGridView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
-
-        <ListView
-            android:id="@+id/listView"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:cacheColorHint="#00000000"
-            android:divider="@color/gray"
-            android:dividerHeight="1px"
-            android:listSelector="@android:color/transparent"
-            android:paddingBottom="@dimen/layout_y_15"
-            android:paddingLeft="@dimen/layout_y_15"
-            android:paddingRight="@dimen/layout_y_15"
-            android:paddingTop="@dimen/layout_y_15"
-            android:scrollbars="@null" >
-        </ListView>
-    </android.support.v4.widget.SwipeRefreshLayout>
+        android:layout_height="match_parent"
+        android:divider="@color/gray"
+        android:dividerHeight="10px"
+        android:listSelector="@android:color/transparent"
+        android:paddingBottom="@dimen/layout_y_10"
+        android:paddingLeft="@dimen/layout_y_10"
+        android:paddingRight="@dimen/layout_y_10"
+        android:paddingTop="@dimen/layout_y_10"
+        android:gravity="fill"
+        android:numColumns="1"
+        android:stretchMode="columnWidth"
+        ptr:ptrMode="both"></com.handmark.pulltorefresh.library.PullToRefreshGridView>
 
 </LinearLayout>

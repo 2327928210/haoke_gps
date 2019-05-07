@@ -95,6 +95,9 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Zařízení"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Vymazat vyhledávání"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Vyhledávání"</string>
+    <string name="pull_to_refresh_pull_label">Tažením aktualizujete…</string>
+    <string name="pull_to_refresh_refreshing_label">Načítání…</string>
+    <string name="pull_to_refresh_release_label">Uvolněním aktualizujete…</string>
     <string msgid="368094699078615544" name="s1">"Uložení obrázku"</string>
     <string msgid="4550830452390689489" name="s2">"Povolit reklamě, aby uložila obrázek do galerie fotek?"</string>
     <string msgid="2435407834265420668" name="s3">"Přijmout"</string>

@@ -3,12 +3,12 @@
     android:id="@+id/rel_onclick"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:gravity="center_vertical" >
+    android:gravity="center_vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical" >
+        android:orientation="vertical">
 
         <TextView
             android:id="@+id/tv_time"
@@ -22,9 +22,9 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/white"
             android:gravity="center"
-            android:padding="@dimen/layout_x_10" >
+            android:padding="@dimen/layout_x_10"
+            android:background="@drawable/shape_kuang">
 
             <LinearLayout
                 android:layout_width="match_parent"

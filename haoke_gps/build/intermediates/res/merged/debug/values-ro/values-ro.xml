@@ -95,6 +95,9 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispozitive"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Ștergeți căutarea"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Căutați"</string>
+    <string name="pull_to_refresh_pull_label">Trage pentru a reîmprospăta…</string>
+    <string name="pull_to_refresh_refreshing_label">Încărcare…</string>
+    <string name="pull_to_refresh_release_label">Eliberează pentru a reîmprospăta…</string>
     <string msgid="368094699078615544" name="s1">"Salvați imaginea"</string>
     <string msgid="4550830452390689489" name="s2">"Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?"</string>
     <string msgid="2435407834265420668" name="s3">"Acceptați"</string>

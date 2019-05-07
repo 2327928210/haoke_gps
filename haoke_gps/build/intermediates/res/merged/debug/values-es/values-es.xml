@@ -23,7 +23,7 @@
         <item>Number 4 of the fence into the fence</item>
         <item>Number 5 of the fence out of the fence</item>
         <item>Number 5 of the fence into the fence</item>
-        <item>El dispositivo ha sido derribado</item> 
+        <item>El dispositivo ha sido derribado</item> <!-- 112 -->
     </string-array>
     <string-array name="device_mode">
         <item>El modo de trabajo de seguimiento continuo</item>
@@ -348,6 +348,9 @@
     <string name="permission_open">Con el fin de garantizar el funcionamiento normal de la aplicación,Por favor abre un permiso</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Borra la búsqueda"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Buscar"</string>
+    <string name="pull_to_refresh_pull_label">Tirar para actualizar…</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando…</string>
+    <string name="pull_to_refresh_release_label">Soltar para actualizar…</string>
     <string name="push">Ajustes Push</string>
     <string name="register">Registrar</string>
     <string name="register_Success">Register Success</string>

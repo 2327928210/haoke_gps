@@ -1812,8 +1812,122 @@
                     "startLine": 97,
                     "startColumn": 4,
                     "startOffset": 10598,
+                    "endColumn": 90,
+                    "endOffset": 10684
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10689,
+                    "endColumn": 113,
+                    "endOffset": 10798
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 113,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 10803,
+                    "endColumn": 107,
+                    "endOffset": 10906
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 107,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 10911,
+                    "endColumn": 78,
+                    "endOffset": 10985
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 78,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 10990,
                     "endColumn": 73,
-                    "endOffset": 10667
+                    "endOffset": 11059
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 73,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11064,
+                    "endColumn": 80,
+                    "endOffset": 11140
+                },
+                "from": {
+                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 80,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11145,
+                    "endColumn": 73,
+                    "endOffset": 11214
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-fi\\values.xml",
@@ -1828,11 +1942,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 10672,
+                    "startOffset": 11219,
                     "endColumn": 119,
-                    "endOffset": 10787
+                    "endOffset": 11334
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-fi\\values.xml",
@@ -1847,11 +1961,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 10792,
+                    "startOffset": 11339,
                     "endColumn": 68,
-                    "endOffset": 10856
+                    "endOffset": 11403
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-fi\\values.xml",
@@ -1866,11 +1980,11 @@
             },
             {
                 "to": {
-                    "startLine": 100,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 10861,
+                    "startOffset": 11408,
                     "endColumn": 67,
-                    "endOffset": 10924
+                    "endOffset": 11471
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-fi\\values.xml",
@@ -1885,11 +1999,11 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 10929,
+                    "startOffset": 11476,
                     "endColumn": 83,
-                    "endOffset": 11008
+                    "endOffset": 11555
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-fi\\values.xml",
@@ -1904,11 +2018,11 @@
             },
             {
                 "to": {
-                    "startLine": 102,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 11013,
+                    "startOffset": 11560,
                     "endColumn": 118,
-                    "endOffset": 11127
+                    "endOffset": 11674
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\aa78502d4323864d6e62a927f008767f07dd4e1d\\output\\res\\values-fi\\values.xml",
@@ -1923,11 +2037,11 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 11132,
+                    "startOffset": 11679,
                     "endColumn": 79,
-                    "endOffset": 11207
+                    "endOffset": 11754
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-fi\\values-fi.xml",
@@ -1942,11 +2056,11 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 11212,
+                    "startOffset": 11759,
                     "endColumn": 100,
-                    "endOffset": 11308
+                    "endOffset": 11855
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\values-fi\\values-fi.xml",
@@ -1961,11 +2075,11 @@
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 11313,
+                    "startOffset": 11860,
                     "endColumn": 108,
-                    "endOffset": 11417
+                    "endOffset": 11964
                 },
                 "from": {
                     "file": "C:\\Users\\zhangqiang\\.android\\build-cache\\c956b60b15277d44f1146383a0242a805436bb8a\\output\\res\\values-fi\\values.xml",

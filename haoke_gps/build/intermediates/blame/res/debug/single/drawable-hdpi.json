@@ -196,12 +196,12 @@
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\login_logo.png"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_right.png",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\calendar_right.png"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flowdetails_qrcode.png",
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\flowdetails_qrcode.png"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_right.png",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable-hdpi\\calendar_right.png"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_bg.png",
