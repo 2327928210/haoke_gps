@@ -1,1 +1,2 @@
 include ':haoke_gps'
+include ':library'

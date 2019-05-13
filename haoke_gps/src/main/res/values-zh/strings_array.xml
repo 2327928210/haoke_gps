@@ -37,6 +37,8 @@
         <item>10分钟</item>
         <item>1小时</item>
     </string-array>
+
+
     <string-array name="alert_title">
         <item>未知信息</item>
         <item>低电量</item> <!-- 101 -->
@@ -61,6 +63,15 @@
         <item>编号5的围栏出围栏</item> <!-- 250 -->
         <item>编号5的围栏入围栏</item> <!-- 251 -->
         <item>设备已被摘除</item> <!-- 112 -->
+
+        <item>电子围栏驶出报警</item> <!-- 200-->
+        <item>电子围栏进入警报</item> <!-- 201-->
+        <item>换卡报警</item> <!-- 202 -->
+        <item>关机报警</item> <!-- 203 -->
+        <item>开机报警</item> <!-- 204-->
+        <item>GPS首次定位报警</item> <!-- 205 -->
+        <item>车门关闭报警</item> <!-- 206-->
+
     </string-array>
 
 </resources>

@@ -60,6 +60,14 @@
         <item>Number 5 of the fence out of the fence</item>
         <item>Number 5 of the fence into the fence</item>
         <item>The device has been torn dowm</item> <!-- 112 -->
+
+        <item>Exit the electronic fence</item> <!-- 200-->
+        <item>Drive into electronic fence</item> <!-- 201-->
+        <item>In the card</item> <!-- 202 -->
+        <item>To turn it off</item> <!-- 203 -->
+        <item>boot</item> <!-- 204-->
+        <item>GPS initial positioning</item> <!-- 205 -->
+        <item>Door closed</item> <!-- 206-->
     </string-array>
 
 </resources>

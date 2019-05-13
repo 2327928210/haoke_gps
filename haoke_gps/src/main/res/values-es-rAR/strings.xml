@@ -247,4 +247,39 @@
     <string name="permission">La autorización</string>
     <string name="permission_active">La autorización</string>
     <string name="url_error">Servidor web</string>
+
+
+    <string name="error_10001">Parámetro de error</string>
+    <string name="error_10002">Los parámetros deben estar vacíos</string>
+    <string name="error_10003">Error de firma (clave)</string>
+    <string name="error_10004">Firma (clave) vencida</string>
+    <string name="error_20001">Anomalía del servidor</string>
+    <string name="error_20002">Sin ese recurso</string>
+    <string name="error_101013">El protocolo de usuario no está de acuerdo</string>
+    <string name="error_101014">El número de celular está registrado</string>
+    <string name="error_102011">Equipo no encontrado</string>
+
+    <string name="error_101031">El dispositivo está conectado</string>
+    <string name="error_101021">La cuenta no existe o la contraseña está equivocada</string>
+    <string name="error_101015">La contraseña modificada es la misma que la original</string>
+    <string name="error_101016">Contraseña equivocada</string>
+    <string name="error_101017">Usuario no registrado</string>
+    <string name="error_101051">Equipo fuera de línea</string>
+    <string name="error_101052">No conectado al dispositivo</string>
+    <string name="error_101053">Tiempo de conexión: el dispositivo no ha respondido a los resultados</string>
+    <string name="error_101054">Recibiendo instrucciones, esperando resultados</string>
+    <string name="error_101055">Corte de combustible: la velocidad del vehículo es excesiva y se ejecuta automáticamente cuando la velocidad del vehículo se desacelera</string>
+    <string name="error_101056">El GPS no está localizado y se ejecuta automáticamente cuando el GPS se recupere</string>
+    <string name="error_101057">Envíe instrucciones fuera de línea</string>
+
+    <string name="error_204001">No se han encontrado datos de trayectoria</string>
+    <string name="error_202021">El número de cercas electrónicas está por encima del límite</string>
+    <string name="error_202022">Sin la valla, podría haber sido borrada</string>
+    <string name="error_203001">No se puede repetir el mensaje en UN minuto</string>
+    <string name="error_203002">UN montón de mensajes en una hora</string>
+    <string name="error_203003">Los mensajes de hoy se han agotado</string>
+    <string name="error_201011">Usuario no registrado</string>
+    <string name="error_202011">El usuario no está vinculado al dispositivo</string>
+    <string name="error_205001">Sin la aplicación</string>
+
 </resources>

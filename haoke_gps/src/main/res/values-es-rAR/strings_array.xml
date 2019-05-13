@@ -60,6 +60,14 @@
         <item>Number 5 of the fence out of the fence</item>
         <item>Number 5 of the fence into the fence</item>
         <item>El dispositivo ha sido derribado</item> <!-- 112 -->
+
+        <item>Fuera de la valla electrónica</item> <!-- 200-->
+        <item>Dirigiéndose a la cerca electrónica</item> <!-- 201-->
+        <item>Cambia la tarjeta</item> <!-- 202 -->
+        <item>Está apagado</item> <!-- 203 -->
+        <item>Arrancar</item> <!-- 204-->
+        <item>Primera localización por GPS</item> <!-- 205 -->
+        <item>Puerta del coche cerrada</item> <!-- 206-->
     </string-array>
 
 </resources>

@@ -200,6 +200,7 @@
                             android:layout_centerVertical="true" />
 
                         <ImageView
+                            android:visibility="gone"
                             android:id="@+id/ima_power"
                             android:layout_width="@dimen/layout_y_30"
                             android:layout_height="@dimen/layout_y_30"
@@ -245,6 +246,7 @@
                             android:layout_centerVertical="true" />
 
                         <ImageView
+                            android:visibility="gone"
                             android:id="@+id/ima_defense"
                             android:layout_width="@dimen/layout_y_30"
                             android:layout_height="@dimen/layout_y_30"
@@ -418,7 +420,7 @@
                         android:paddingTop="@dimen/layout_x_18" >
 
                         <ImageView
-                            android:id="@+id/imageView4"
+                            android:id="@+id/imageView"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_alignParentLeft="true"
@@ -438,7 +440,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_toLeftOf="@+id/right_back"
-                            android:layout_toRightOf="@+id/imageView4"
+                            android:layout_toRightOf="@+id/imageView"
                             android:orientation="vertical" >
 
                             <RelativeLayout

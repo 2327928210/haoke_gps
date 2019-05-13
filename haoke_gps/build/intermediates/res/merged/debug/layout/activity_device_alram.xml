@@ -53,6 +53,7 @@
 
                 <ImageView
                     android:id="@+id/ima_door"
+                    android:visibility="gone"
                     android:layout_width="@dimen/layout_y_30"
                     android:layout_height="@dimen/layout_y_30"
                     android:layout_centerVertical="true"
@@ -89,6 +90,7 @@
 
                 <ImageView
                     android:id="@+id/ima_acc"
+                    android:visibility="gone"
                     android:layout_width="@dimen/layout_y_30"
                     android:layout_height="@dimen/layout_y_30"
                     android:layout_centerVertical="true"
@@ -125,6 +127,7 @@
 
                 <ImageView
                     android:id="@+id/ima_blind"
+                    android:visibility="gone"
                     android:layout_width="@dimen/layout_y_30"
                     android:layout_height="@dimen/layout_y_30"
                     android:layout_centerVertical="true"
@@ -161,6 +164,7 @@
 
                 <ImageView
                     android:id="@+id/ima_electricity"
+                    android:visibility="gone"
                     android:layout_width="@dimen/layout_y_30"
                     android:layout_height="@dimen/layout_y_30"
                     android:layout_centerVertical="true"
@@ -197,6 +201,7 @@
 
                 <ImageView
                     android:id="@+id/ima_displacement"
+                    android:visibility="gone"
                     android:layout_width="@dimen/layout_y_30"
                     android:layout_height="@dimen/layout_y_30"
                     android:layout_centerVertical="true"
@@ -234,6 +239,7 @@
 
                 <ImageView
                     android:id="@+id/ima_jones"
+                    android:visibility="gone"
                     android:layout_width="@dimen/layout_y_30"
                     android:layout_height="@dimen/layout_y_30"
                     android:layout_centerVertical="true"
@@ -277,6 +283,7 @@
 
                     <ImageView
                         android:id="@+id/ima_remove"
+                        android:visibility="gone"
                         android:layout_width="@dimen/layout_y_30"
                         android:layout_height="@dimen/layout_y_30"
                         android:layout_centerVertical="true"
