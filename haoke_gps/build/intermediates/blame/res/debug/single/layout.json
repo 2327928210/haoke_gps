@@ -8,12 +8,12 @@
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\activity_payment.xml"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\pop_device_item.xml",
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\pop_device_item.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\activity_payment.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -40,20 +40,20 @@
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\activity_twocode_zbar.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\activity_forgot.xml"
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\activity_forgot.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apn.xml",
@@ -108,12 +108,12 @@
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\toast_view.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
@@ -128,12 +128,12 @@
         "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\wait_dialog.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\wait_dialog.xml"
-    },
-    {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\wait_dialog.xml",
+        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\layout\\wait_dialog.xml"
     },
     {
         "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\layout\\location_info.xml",
