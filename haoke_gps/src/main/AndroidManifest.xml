@@ -115,7 +115,7 @@
             android:name="com.haoke.activity.PaymentActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.haoke.activity.UpPassWordActivity"
+            android:name="com.haoke.activity.ChangePassWordActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.haoke.activity.APNActivity"
