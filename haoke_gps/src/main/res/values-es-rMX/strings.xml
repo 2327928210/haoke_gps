@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="cue_email_is_no">El formato del buzón está mal</string>
     <string name="device_no_line">El equipo no está en línea</string>
     <string name="device_info_ks">¿Está seguro de que la cerradura?</string>
     <string name="device_info_door_close">Lock</string>

@@ -1139,6 +1139,7 @@
     <string name="cue_code_is_no_empty">The verification code cannot be empty</string>
     <string name="cue_content_is_no_empty">content cannot be empty</string>
     <string name="cue_edit_successful">Modify successfully</string>
+    <string name="cue_email_is_no">Mailbox format error</string>
     <string name="cue_email_is_no_empty">Email cannot be empty</string>
     <string name="cue_is_no_correct">Not in the correct format</string>
     <string name="cue_is_no_max">Length must not be greater than 16</string>

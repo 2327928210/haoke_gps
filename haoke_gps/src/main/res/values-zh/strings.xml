@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="cue_email_is_no">邮箱格式有误</string>
     <string name="device_no_line">设备不在线 </string>
     <string name="device_info_ks">是否确定开锁？</string>
     <string name="device_info_door_close">关锁</string>

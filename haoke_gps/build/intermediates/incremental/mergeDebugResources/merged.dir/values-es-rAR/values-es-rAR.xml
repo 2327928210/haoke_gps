@@ -89,6 +89,7 @@
     <string name="cue_code_is_no_empty">El código de verificación no puede estar vacío</string>
     <string name="cue_content_is_no_empty">Contenido no pueden estar vacío</string>
     <string name="cue_edit_successful">Modificación exitoso</string>
+    <string name="cue_email_is_no">El formato del buzón está mal</string>
     <string name="cue_email_is_no_empty">El correo no puede estar vacío</string>
     <string name="cue_is_no_correct">Formato incorrecto</string>
     <string name="cue_is_no_max">Longitud no superior a 16</string>
