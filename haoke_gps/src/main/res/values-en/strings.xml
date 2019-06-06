@@ -263,6 +263,7 @@
     <string name="error_101015">The modified password is the same as the original password</string>
     <string name="error_101016">Password mistake</string>
     <string name="error_101017">User not registered</string>
+    <string name="error_101050">This mailbox is not registered</string>
     <string name="error_101051">Device offline</string>
     <string name="error_101052">Not connected to device</string>
     <string name="error_101053">Connection timeout: the device did not reply to the result</string>

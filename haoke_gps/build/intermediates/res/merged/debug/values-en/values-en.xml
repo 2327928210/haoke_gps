@@ -204,6 +204,7 @@
     <string name="error_101017">User not registered</string>
     <string name="error_101021">Account does not exist or password error</string>
     <string name="error_101031">The device has been bound</string>
+    <string name="error_101050">This mailbox is not registered</string>
     <string name="error_101051">Device offline</string>
     <string name="error_101052">Not connected to device</string>
     <string name="error_101053">Connection timeout: the device did not reply to the result</string>

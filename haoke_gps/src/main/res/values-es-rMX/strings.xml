@@ -263,6 +263,7 @@
     <string name="error_101015">La contraseña modificada es la misma que la original</string>
     <string name="error_101016">Contraseña equivocada</string>
     <string name="error_101017">Usuario no registrado</string>
+    <string name="error_101050">El buzón no está registrado</string>
     <string name="error_101051">Equipo fuera de línea</string>
     <string name="error_101052">No conectado al dispositivo</string>
     <string name="error_101053">Tiempo de conexión: el dispositivo no ha respondido a los resultados</string>

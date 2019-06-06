@@ -204,6 +204,7 @@
     <string name="error_101017">Usuario no registrado</string>
     <string name="error_101021">La cuenta no existe o la contraseña está equivocada</string>
     <string name="error_101031">El dispositivo está conectado</string>
+    <string name="error_101050">El buzón no está registrado</string>
     <string name="error_101051">Equipo fuera de línea</string>
     <string name="error_101052">No conectado al dispositivo</string>
     <string name="error_101053">Tiempo de conexión: el dispositivo no ha respondido a los resultados</string>
