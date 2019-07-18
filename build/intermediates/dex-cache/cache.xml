@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5cdfa8887b52fc79d86c9c81acdb6e9e2a53417">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_abe30d101a445e3207c64572659316efe654802b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\haoke_gps\haoke_gps\libs\jpush-android-3.0.8.jar"
         jumboMode="false"
         optimize="true"
@@ -48,12 +57,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\haoke_gps\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\4\classes_61061c32bcb55808263e2fa8871c72d9526858b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
         <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_8631d5e575adbf6eb46989f066d9266c74a8b80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\zbar-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80dd2878dd76cb5bece023aae9ebada047f8c79">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-1.0.0_122ceb4744ae2c195a4aedfecf5d19abd88260d5\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +93,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_0611ea20a627b1c086abdabd369e646357870a68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\haoke_gps\haoke_gps\libs\okio-1.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_fd22c88eccb8a9c2b74ca74547536adcb01f3542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\jpush-android-3.0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-3.0.8_a6a81d4a2cfbac62ae6d9d77e816a6c9d54a9958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\pgyer_sdk_2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b0d43a1d3e5cbe8f1b67572b85c51c8fbaa03d14">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\pgyer_sdk_2.7.0_d21e2e7695f45f212ccc46bdb63dd142772bb81f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,150 +147,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_0611ea20a627b1c086abdabd369e646357870a68\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\e98d3947d45f2f9d7bd968e3740657293f7a4e9d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb5ea2ed66a641128f7d59c032a92c0f1cedc8c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\okhttp-2.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.7.0_cf20ab924515a3a2d50f848b547cef63ddbd5811\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\353c2e49de32da64c77b2211ec41603f840f07cf\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d894e5974025b033921a292e667f0aefd119770\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_fd22c88eccb8a9c2b74ca74547536adcb01f3542\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\4c39de99635d6ea0a992141410f5a3049d205feb\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_505a06f23338e9508133ad91b91e115b4cfd06d6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\bugly_crash_release.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="11a294f511cf1e23f525c87ca4cc1d92c9f3d6a2">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release_4adacdcfa77737b3e4b9a3769be169d9a4eda8eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\f6f5d00ff887bd3808298400d1499f758a360a6e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad62b0a1d25e22fa02d1ca809d746ffb394b6f17\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\glide-3.6.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_37aa183e69cf2ab69716f99ebe341aac10966902\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\core-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_51d19a268e056a9912145cbdab4fbfeeabbed650\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\BaiduLBS_Android.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="a5cdfa8887b52fc79d86c9c81acdb6e9e2a53417">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_abe30d101a445e3207c64572659316efe654802b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\library\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\4\classes_61061c32bcb55808263e2fa8871c72d9526858b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\zbar-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f80dd2878dd76cb5bece023aae9ebada047f8c79">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-1.0.0_122ceb4744ae2c195a4aedfecf5d19abd88260d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_0611ea20a627b1c086abdabd369e646357870a68\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\jpush-android-3.0.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-3.0.8_a6a81d4a2cfbac62ae6d9d77e816a6c9d54a9958\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\pgyer_sdk_2.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="b0d43a1d3e5cbe8f1b67572b85c51c8fbaa03d14">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\pgyer_sdk_2.7.0_d21e2e7695f45f212ccc46bdb63dd142772bb81f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\zhangqiang\.android\build-cache\2b014612cc08f13e9cd7367d3c0d667717e71699\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -255,6 +165,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_0611ea20a627b1c086abdabd369e646357870a68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\e98d3947d45f2f9d7bd968e3740657293f7a4e9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb5ea2ed66a641128f7d59c032a92c0f1cedc8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\zhangqiang\.android\build-cache\247ec652be0aca9af212c883a2dac1c3460532f7\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -270,6 +198,15 @@
         revision="26.0.2"
         sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
         <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_869e3001d45eccbee8399df84c80f99bfc52993d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\okhttp-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.7.0_cf20ab924515a3a2d50f848b547cef63ddbd5811\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -309,12 +246,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\353c2e49de32da64c77b2211ec41603f840f07cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d894e5974025b033921a292e667f0aefd119770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\haoke_gps\haoke_gps\libs\core-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
         <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_51d19a268e056a9912145cbdab4fbfeeabbed650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_fd22c88eccb8a9c2b74ca74547536adcb01f3542\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -327,12 +282,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\4c39de99635d6ea0a992141410f5a3049d205feb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_505a06f23338e9508133ad91b91e115b4cfd06d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="11a294f511cf1e23f525c87ca4cc1d92c9f3d6a2">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release_4adacdcfa77737b3e4b9a3769be169d9a4eda8eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\haoke_gps\haoke_gps\libs\glide-3.6.1.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.0"
         sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
         <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_37aa183e69cf2ab69716f99ebe341aac10966902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\f6f5d00ff887bd3808298400d1499f758a360a6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad62b0a1d25e22fa02d1ca809d746ffb394b6f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_37aa183e69cf2ab69716f99ebe341aac10966902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\haoke_gps\haoke_gps\libs\core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_51d19a268e056a9912145cbdab4fbfeeabbed650\classes.dex" />
     </item>
 
 </items>

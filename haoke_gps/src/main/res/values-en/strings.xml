@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="user_info_logout_info">You have not saved the personal information of the second change, confirm return</string>
+    <string name="cue_nickname_is_no_Emoji">Don not support emoticons</string>
+    <string name="app_notify">Determine to open notification function？</string>
     <string name="cue_email_is_no">Mailbox format error</string>
     <string name="device_no_line">Device not online</string>
     <string name="device_info_ks">Are you sure to unlock?</string>
@@ -212,8 +215,8 @@
     <string name="cue_bonded_successful">Bind successfully</string>
     <string name="cue_unbonded_successful">Tie up successfully</string>
     <string name="cue_click_again_to_exit">Press again to exit the program</string>
-    <string name="cue_nickname_is_no_empty">Nicknames cannot be empty</string>
-    <string name="cue_nickname_is_no_max">Nickname length must not be greater than 16</string>
+    <string name="cue_nickname_is_no_empty">El nombre no debe estar en blanco</string>
+    <string name="cue_nickname_is_no_max">Name length must not be greater than 16</string>
     <string name="cue_content_is_no_empty">content cannot be empty</string>
     <string name="cue_APN_is_no_empty">APN cannot be empty</string>
     <string name="cue_SIM_is_no_empty">SIM cannot be empty</string>

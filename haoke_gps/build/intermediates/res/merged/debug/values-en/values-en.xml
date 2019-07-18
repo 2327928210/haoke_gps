@@ -77,6 +77,7 @@
     <string name="apn_password">Password：</string>
     <string name="apn_sim">SIM Card：</string>
     <string name="app_name">SPIDER</string>
+    <string name="app_notify">Determine to open notification function？</string>
     <string name="april">april</string>
     <string name="august">august</string>
     <string name="binding">Binding</string>
@@ -100,8 +101,9 @@
     <string name="cue_macid_is_no_correct">The device number is incorrect in length</string>
     <string name="cue_macid_is_no_empty">The device number cannot be null</string>
     <string name="cue_network_anomaly">Network anomaly</string>
-    <string name="cue_nickname_is_no_empty">Nicknames cannot be empty</string>
-    <string name="cue_nickname_is_no_max">Nickname length must not be greater than 16</string>
+    <string name="cue_nickname_is_no_Emoji">Don not support emoticons</string>
+    <string name="cue_nickname_is_no_empty">El nombre no debe estar en blanco</string>
+    <string name="cue_nickname_is_no_max">Name length must not be greater than 16</string>
     <string name="cue_no_device_info">No device information was obtained</string>
     <string name="cue_no_network">The network cannot connect</string>
     <string name="cue_password_is_no_16_bits">Password must not exceed 16 bits</string>
@@ -339,6 +341,7 @@
     <string name="user_info_account">Account number</string>
     <string name="user_info_logout">Log out</string>
     <string name="user_info_logout_confirm">Do you want to quit the current account?</string>
+    <string name="user_info_logout_info">You have not saved the personal information of the second change, confirm return</string>
     <string name="user_info_nikename">Nickname</string>
     <string name="user_info_password">Modify password</string>
     <string name="user_initial_password">Original password：</string>

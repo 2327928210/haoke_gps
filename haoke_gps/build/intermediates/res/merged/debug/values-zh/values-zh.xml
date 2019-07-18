@@ -78,6 +78,7 @@
     <string name="apn_password">密码：</string>
     <string name="apn_sim">SIM卡号：</string>
     <string name="app_name">SPIDER</string>
+    <string name="app_notify">确定打开通知功能</string>
     <string name="april">四月</string>
     <string name="august">八月</string>
     <string name="binding">绑定</string>
@@ -101,8 +102,9 @@
     <string name="cue_macid_is_no_correct">设备号长度不正确</string>
     <string name="cue_macid_is_no_empty">设备号不能为空</string>
     <string name="cue_network_anomaly">网络异常</string>
-    <string name="cue_nickname_is_no_empty">昵称不能为空</string>
-    <string name="cue_nickname_is_no_max">昵称长度不得大于16</string>
+    <string name="cue_nickname_is_no_Emoji">不支持表情</string>
+    <string name="cue_nickname_is_no_empty">名称不能为空</string>
+    <string name="cue_nickname_is_no_max">名称长度不得大于16</string>
     <string name="cue_no_device_info">未获取到设备信息</string>
     <string name="cue_no_network">网络无法连接</string>
     <string name="cue_password_is_no_16_bits">密码不能超过16位</string>
@@ -344,6 +346,7 @@
     <string name="user_info_account">账号</string>
     <string name="user_info_logout">退出登录</string>
     <string name="user_info_logout_confirm">是否退出当前账号？</string>
+    <string name="user_info_logout_info">你还未保存个人信息的次改，是否确认返回</string>
     <string name="user_info_nikename">昵称</string>
     <string name="user_info_password">修改密码</string>
     <string name="user_initial_password">原始密码:</string>
