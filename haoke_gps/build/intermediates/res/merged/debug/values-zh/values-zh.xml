@@ -2,37 +2,66 @@
 <resources>
     <string-array name="alert_title">
         <item>未知信息</item>
-        <item>低电量</item> 
-        <item>ACC开</item> 
-        <item>ACC关</item> 
-        <item>外接电源线断开</item> 
-        <item>车门打开</item> 
-        <item>车辆超速</item> 
-        <item>SOS报警</item> 
-        <item>进入GPS盲区</item> 
-        <item>汽车发生震动</item> 
-        <item>汽车异常移动</item> 
-        <item>驶出GPS盲区</item> 
-        <item>编号1的围栏出围栏</item> 
-        <item>编号1的围栏入围栏</item> 
-        <item>编号2的围栏出围栏</item> 
-        <item>编号2的围栏入围栏</item> 
-        <item>编号3的围栏出围栏</item> 
-        <item>编号3的围栏入围栏</item> 
-        <item>编号4的围栏出围栏</item> 
-        <item>编号4的围栏入围栏</item> 
-        <item>编号5的围栏出围栏</item> 
-        <item>编号5的围栏入围栏</item> 
-        <item>设备已被摘除</item> 
+        <item>低电量</item> <!-- 101 -->
+        <item>ACC开</item> <!-- 102 -->
+        <item>ACC关</item> <!-- 103 -->
+        <item>外接电源线断开</item> <!-- 104 -->
+        <item>车门打开</item> <!-- 105 -->
+        <item>车辆超速</item> <!-- 106 -->
+        <item>SOS报警</item> <!-- 107 -->
+        <item>进入GPS盲区</item> <!-- 108 -->
+        <item>汽车发生震动</item> <!-- 109 -->
+        <item>汽车异常移动</item> <!-- 110 -->
+        <item>驶出GPS盲区</item> <!-- 111 -->
+        <item>编号1的围栏出围栏</item> <!-- 210 -->
+        <item>编号1的围栏入围栏</item> <!-- 211 -->
+        <item>编号2的围栏出围栏</item> <!-- 220 -->
+        <item>编号2的围栏入围栏</item> <!-- 221 -->
+        <item>编号3的围栏出围栏</item> <!-- 230 -->
+        <item>编号3的围栏入围栏</item> <!-- 231 -->
+        <item>编号4的围栏出围栏</item> <!-- 240 -->
+        <item>编号4的围栏入围栏</item> <!-- 241 -->
+        <item>编号5的围栏出围栏</item> <!-- 250 -->
+        <item>编号5的围栏入围栏</item> <!-- 251 -->
+        <item>设备已被摘除</item> <!-- 112 -->
 
-        <item>电子围栏驶出报警</item> 
-        <item>电子围栏进入警报</item> 
-        <item>换卡报警</item> 
-        <item>关机报警</item> 
-        <item>开机报警</item> 
-        <item>GPS首次定位报警</item> 
-        <item>车门关闭报警</item> 
+        <item>电子围栏驶出报警</item> <!-- 200-->
+        <item>电子围栏进入警报</item> <!-- 201-->
+        <item>换卡报警</item> <!-- 202 -->
+        <item>关机报警</item> <!-- 203 -->
+        <item>开机报警</item> <!-- 204-->
+        <item>GPS首次定位报警</item> <!-- 205 -->
+        <item>车门关闭报警</item> <!-- 206-->
 
+    </string-array>
+    <string-array name="chaosu_speed">
+        <item>关</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="chaosu_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
     </string-array>
     <string-array name="device_mode">
         <item>连续追踪定位模式</item>
@@ -43,7 +72,21 @@
         <item>间隔时间上传模式</item>
         <item>固定时间点上传模式</item>
     </string-array>
+    <string-array name="location_juli">
+        <item>50米</item>
+        <item>100米</item>
+        <item>200米</item>
+        <item>300米</item>
+        <item>500米</item>
+    </string-array>
     <string-array name="location_time">
+        <item>20秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="location_time_gt10a">
+        <item>10秒</item>
         <item>20秒</item>
         <item>60秒</item>
         <item>10分钟</item>
@@ -93,6 +136,7 @@
     <string name="cue_edit_successful">修改成功</string>
     <string name="cue_email_is_no">邮箱格式有误</string>
     <string name="cue_email_is_no_empty">邮箱不能为空</string>
+    <string name="cue_is_no_bits">不能超过%d位</string>
     <string name="cue_is_no_correct">格式不正确</string>
     <string name="cue_is_no_max">长度不得大于16</string>
     <string name="cue_is_no_max_16">长度不得大于16</string>
@@ -122,19 +166,24 @@
     <string name="device_alram">报警功能</string>
     <string name="device_alram_acc">ACC报警</string>
     <string name="device_alram_blind">盲区报警</string>
+    <string name="device_alram_chaosu">超速报警</string>
     <string name="device_alram_displacement">位移报警</string>
     <string name="device_alram_door">门报警</string>
     <string name="device_alram_electricity">低电量报警</string>
     <string name="device_alram_jones">外电断电报警</string>
     <string name="device_alram_remove">摘除报警</string>
     <string name="device_alram_remove_tag">摘除报警工作模式</string>
+    <string name="device_alram_setting">报警设置</string>
     <string name="device_alram_shock">震动报警</string>
     <string name="device_alram_shock_1">一级</string>
     <string name="device_alram_shock_2">二级</string>
     <string name="device_alram_shock_3">三级</string>
     <string name="device_binding">设备绑定</string>
+    <string name="device_chaosu_title">速度（km/h）</string>
+    <string name="device_chaosu_title2">持续时间（s）</string>
     <string name="device_config">设备设定</string>
     <string name="device_config_1inqing">亲情号码设置</string>
+    <string name="device_config_juli">定位上传距离</string>
     <string name="device_config_mode">设备工作模式</string>
     <string name="device_config_num1">号码1</string>
     <string name="device_config_num2">号码2</string>
@@ -152,6 +201,8 @@
     <string name="device_info_acc">Acc</string>
     <string name="device_info_battery">电池</string>
     <string name="device_info_break_power_confirm">是否执行断油断电？</string>
+    <string name="device_info_chaosu_title">请输入速度（单位:km/h）</string>
+    <string name="device_info_chaosu_title2">请输入超速持续时间（单位:秒）</string>
     <string name="device_info_chongqi">重启</string>
     <string name="device_info_defense">布防</string>
     <string name="device_info_door">门</string>
@@ -280,6 +331,7 @@
     <string name="music_recording">录音</string>
     <string name="music_start">开始下载</string>
     <string name="music_time">录音时长：</string>
+    <string name="noknow_location">未知位置</string>
     <string name="november">十一月</string>
     <string name="october">十月</string>
     <string name="other_cancel">取消</string>

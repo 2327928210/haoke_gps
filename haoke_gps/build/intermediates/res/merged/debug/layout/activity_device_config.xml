@@ -76,6 +76,52 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/lin_juli"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/rel_juli"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_y_70" >
+
+                    <TextView
+                        android:id="@+id/textView_juli"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/device_config_juli"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layout_x_20" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/white_next" />
+
+                    <TextView
+                        android:id="@+id/tv_juli"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="15dp"
+                        android:layout_toRightOf="@+id/textView_juli"
+                        android:text="1.0"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layout_x_20" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
                 android:id="@+id/lin_mode"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

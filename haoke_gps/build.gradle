@@ -8,7 +8,9 @@ android {
         multiDexEnabled true
         applicationId "com.haoke.gps"
         minSdkVersion 18
-        targetSdkVersion 26
+        targetSdkVersion 28
+        versionCode 100
+        versionName "SPIDER_2.0.0"
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
             targetCompatibility JavaVersion.VERSION_1_7
@@ -39,7 +41,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
         }
+        dexOptions {
+            javaMaxHeapSize "8g"
+        }
         debug {
+//            debuggable=false;
             signingConfig signingConfigs.release
         }
     }
@@ -58,13 +64,6 @@ android {
 
 dependencies {
     compile 'com.android.support:multidex:1.0.1'
-    //    compile 'com.google.android.gms:play-services:3.1.+'
-    //    compile project(':recyclerview')
-    //    compile 'com.google.android.gms:play-services-maps:10.2.1'
-    //    compile 'com.google.android.gms:play-services:10.2.1'
-    //    compile 'com.google.android.gms:play-services:9.4.0'
-    //    compile files('libs/google-play-services.jar')
-    //    compile 'com.google.android.gms:play-services:11.0.4'
     compile files('libs/BaiduLBS_Android.jar')
     compile files('libs/bugly_crash_release.jar')
     compile files('libs/core-3.0.0.jar')

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_color"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <include
+            android:id="@+id/top_rel"
+            layout="@layout/layout_titlebar" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:background="@drawable/login_bg"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/layout_x_35"
+        android:paddingRight="@dimen/layout_x_35"
+        android:paddingTop="@dimen/layout_y_10" >
+
+        <RelativeLayout
+            android:id="@+id/rel_push"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_180" >
+
+            <ImageView
+                android:id="@+id/ima_user"
+                android:layout_width="@dimen/layout_x_120"
+                android:layout_height="@dimen/layout_x_120"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/left_user_avatar" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rel_nikename"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_80" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_x_10"
+                android:src="@drawable/userinfo_name" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_x_20"
+                android:layout_toRightOf="@+id/imageView2"
+                android:text="@string/device_info_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <TextView
+                android:id="@+id/tv_nikename"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text=""
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/white" />
+
+        <RelativeLayout
+            android:id="@+id/rel_about"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_80" >
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_x_10"
+                android:src="@drawable/userinfo_phone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_x_20"
+                android:layout_toRightOf="@+id/imageView3"
+                android:text="@string/user_info_account"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <TextView
+                android:id="@+id/tv_account"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text=""
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/white" />
+
+        <RelativeLayout
+            android:id="@+id/rel_uppws"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_80" >
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_x_10"
+                android:src="@drawable/userinfo_password" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_x_10"
+                android:layout_toRightOf="@+id/imageView4"
+                android:text="@string/user_info_password"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_20" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/white_next" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/white" />
+
+        <Button
+            android:id="@+id/bt_logout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_y_60"
+            android:layout_marginTop="@dimen/layout_y_50"
+            android:background="@drawable/login_button"
+            android:text="@string/user_info_logout"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</LinearLayout>

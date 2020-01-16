@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/emptyView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_empty"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layout_x_20" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/location_no_data"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/layout_x_20" />
+                </LinearLayout>
+            </ScrollView>
+        </android.support.v4.widget.SwipeRefreshLayout>
+
+        <com.handmark.pulltorefresh.library.PullToRefreshGridView
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/pullToRefreshGridView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="#00000000"
+            android:divider="@color/gray"
+            android:dividerHeight="1px"
+            android:listSelector="@android:color/transparent"
+            android:gravity="fill"
+            android:numColumns="1"
+            android:paddingBottom="@dimen/layout_y_10"
+            android:paddingLeft="@dimen/layout_y_10"
+            android:paddingRight="@dimen/layout_y_10"
+            android:paddingTop="@dimen/layout_y_10"
+            android:stretchMode="columnWidth"
+            ptr:ptrMode="both"></com.handmark.pulltorefresh.library.PullToRefreshGridView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/bt_recording"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/layout_y_80"
+            android:layout_weight="1"
+            android:text="@string/music_recording" />
+
+        <Button
+            android:id="@+id/bt_phone"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/layout_y_80"
+            android:layout_weight="1"
+            android:text="@string/music_call"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/bt_call"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/layout_y_80"
+            android:layout_weight="1"
+            android:text="@string/main_sound_monitor_bt" />
+    </LinearLayout>
+
+</LinearLayout>

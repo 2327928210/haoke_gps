@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="noknow_location">Ubicación desconocida</string>
+    <string name="device_alram_setting">Configuraciones de alarma</string>
+    <string name="device_chaosu_title">Velocidad (km / h)</string>
+    <string name="device_chaosu_title2">Duración (s)</string>
+    <string name="cue_is_no_bits">No puede exceder %d</string>
+    <string name="device_info_chaosu_title">Por favor, introduzca la velocidad (unidad: km / h)</string>
+    <string name="device_info_chaosu_title2">Ingrese la duración de la velocidad (en segundos)</string>
+    <string name="device_alram_chaosu">Alarma de velocidad</string>
+    <string name="device_config_juli">Distancia de carga de posicionamiento</string>
+
     <string name="user_info_logout_info">Usted no ha guardado los datos personales del segundo cambio, si confirma la devolución</string>
     <string name="cue_nickname_is_no_Emoji">No apoya la expresión</string>
     <string name="app_notify">¿Está seguro de activar la función de notificación?</string>
     <string name="cue_email_is_no">El formato del buzón está mal</string>
-    <string name="device_no_line">El equipo no está en línea</string>
+    <string name="device_no_line">El equipo no está en líneaEl equipo no está en línea</string>
     <string name="device_info_ks">¿Está seguro de que la cerradura?</string>
     <string name="device_info_door_close">Lock</string>
     <string name="device_info_door_open">Desbloquear</string>

@@ -23,15 +23,44 @@
         <item>Number 4 of the fence into the fence</item>
         <item>Number 5 of the fence out of the fence</item>
         <item>Number 5 of the fence into the fence</item>
-        <item>El dispositivo ha sido derribado</item> 
+        <item>El dispositivo ha sido derribado</item> <!-- 112 -->
 
-        <item>Fuera de la valla electrónica</item> 
-        <item>Dirigiéndose a la cerca electrónica</item> 
-        <item>Cambia la tarjeta</item> 
-        <item>Está apagado</item> 
-        <item>Arrancar</item> 
-        <item>Primera localización por GPS</item> 
-        <item>Puerta del coche cerrada</item> 
+        <item>Fuera de la valla electrónica</item> <!-- 200-->
+        <item>Dirigiéndose a la cerca electrónica</item> <!-- 201-->
+        <item>Cambia la tarjeta</item> <!-- 202 -->
+        <item>Está apagado</item> <!-- 203 -->
+        <item>Arrancar</item> <!-- 204-->
+        <item>Primera localización por GPS</item> <!-- 205 -->
+        <item>Puerta del coche cerrada</item> <!-- 206-->
+    </string-array>
+    <string-array name="chaosu_speed">
+        <item>Apagado</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="chaosu_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
     </string-array>
     <string-array name="device_mode">
         <item>El modo de trabajo de seguimiento continuo</item>
@@ -42,10 +71,24 @@
          <item>Carga de modo de intervalos de tiempo</item>
         <item>Carga de modo de tiempo fijo</item>
     </string-array>
+    <string-array name="location_juli">
+        <item>50M</item>
+        <item>100M</item>
+        <item>200M</item>
+        <item>300M</item>
+        <item>500M</item>
+    </string-array>
     <string-array name="location_time">
         <item>20s</item>
         <item>60s</item>
         <item>10m</item>
+        <item>1h</item>
+    </string-array>
+    <string-array name="location_time_gt10a">
+        <item>10s</item>
+        <item>20s</item>
+        <item>60s</item>
+        <item>10min</item>
         <item>1h</item>
     </string-array>
     <string-array name="location_time_gt12">
@@ -92,6 +135,7 @@
     <string name="cue_edit_successful">Modificación exitoso</string>
     <string name="cue_email_is_no">El formato del buzón está mal</string>
     <string name="cue_email_is_no_empty">El correo no puede estar vacío</string>
+    <string name="cue_is_no_bits">No puede exceder %d</string>
     <string name="cue_is_no_correct">Formato incorrecto</string>
     <string name="cue_is_no_max">Longitud no superior a 16</string>
     <string name="cue_is_no_max_16">La longitud no debe ser mayor que 16</string>
@@ -121,19 +165,24 @@
     <string name="device_alram">Función de Alarma</string>
     <string name="device_alram_acc">Alarma ACC</string>
     <string name="device_alram_blind">Alarma Ciega</string>
+    <string name="device_alram_chaosu">Alarma de velocidad</string>
     <string name="device_alram_displacement">Alarma de desplazamiento</string>
     <string name="device_alram_door">Alarma de Puerta</string>
     <string name="device_alram_electricity">Alarma de Batería Baja</string>
     <string name="device_alram_jones">Alarma de falla de alimentación externa</string>
     <string name="device_alram_remove">La demolición de la alarma</string>
     <string name="device_alram_remove_tag">Extirpación alarma modo de trabajo</string>
+    <string name="device_alram_setting">Configuraciones de alarma</string>
     <string name="device_alram_shock">Alarma de Vibración</string>
     <string name="device_alram_shock_1">Modo activado</string>
     <string name="device_alram_shock_2">Modo dos</string>
     <string name="device_alram_shock_3">Modo tres</string>
     <string name="device_binding">Dispositivo Vinculado</string>
+    <string name="device_chaosu_title">Velocidad (km / h)</string>
+    <string name="device_chaosu_title2">Duración (s)</string>
     <string name="device_config">Configuración del dispositivo</string>
     <string name="device_config_1inqing">Configuración del número</string>
+    <string name="device_config_juli">Distancia de carga de posicionamiento</string>
     <string name="device_config_mode">El modo de trabajo</string>
     <string name="device_config_num1">Número1</string>
     <string name="device_config_num2">Número2</string>
@@ -151,6 +200,8 @@
     <string name="device_info_acc">ACC</string>
     <string name="device_info_battery">Batería</string>
     <string name="device_info_break_power_confirm">Advertencia：corte de aceite y electricidad \nSe presentarán los peligros existentes. ¿Quieres continuar? "Si”, “No"</string>
+    <string name="device_info_chaosu_title">Por favor, introduzca la velocidad (unidad: km / h)</string>
+    <string name="device_info_chaosu_title2">Ingrese la duración de la velocidad (en segundos)</string>
     <string name="device_info_chongqi">Reiniciar</string>
     <string name="device_info_defense">Defensa</string>
     <string name="device_info_door">Puerta</string>
@@ -183,7 +234,7 @@
     <string name="device_info_version">Versión</string>
     <string name="device_info_version_mcu">MCU</string>
     <string name="device_install_goolemap">Todavía no ha instalado el mapa de Google o la versión del mapa.</string>
-    <string name="device_no_line">El equipo no está en línea</string>
+    <string name="device_no_line">El equipo no está en líneaEl equipo no está en línea</string>
     <string name="device_recording_unit">S</string>
     <string name="device_synchro">Sincronizar</string>
     <string name="device_twocode">Exploración de Códigos de Barras</string>
@@ -279,6 +330,7 @@
     <string name="music_recording">Grabación</string>
     <string name="music_start">Descargar</string>
     <string name="music_time">Duración de grabación：</string>
+    <string name="noknow_location">Ubicación desconocida</string>
     <string name="november">november</string>
     <string name="october">october</string>
     <string name="other_cancel">Cancelar</string>

@@ -1,598 +1,598 @@
 [
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\register_code_s.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\register_code_s.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kuang.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_kuang.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_user_ck.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\pop_user_ck.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_left.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_left.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\register_button.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\register_button.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\try_plays.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\try_plays.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_car.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_car.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
-        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_group_expand.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_back.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\switch_back.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_car_many.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_car_many.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\0822dbeb9ac2cfeb4e9e146d20815bb88ffc0f60\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_pause_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_forward.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_close_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\user_agreement.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\user_agreement.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\location_s.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\location_s.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\progress_bar_states.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\login_button.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_trajectory.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ico_trajectory.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_close_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connected_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bg.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\white_bg.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ele_add_s.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ele_add_s.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connecting_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\location_updata.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\location_updata.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connected_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edittext_dialog.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_edittext_dialog.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_pause_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_pause.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg_dialog.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_bg_dialog.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_calendar.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ico_calendar.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_group_collapse.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_car_less.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_car_less.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_play_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_toast.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_toast.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\regist_check.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\regist_check.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_listview.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_login_listview.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bt.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\white_bt.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button_dialog.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_button_dialog.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ele_sub_s.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ele_sub_s.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
-    },
-    {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bt_shape.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\white_bt_shape.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edittext_dialog.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_edittext_dialog.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_play_light.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bt.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\white_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\location_updata.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\location_updata.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_car_less.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_car_less.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\0822dbeb9ac2cfeb4e9e146d20815bb88ffc0f60\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_left.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\location_s.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\location_s.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_user_ck.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\pop_user_ck.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bt_shape.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\white_bt_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bg.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\code_text.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\code_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_car.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_car.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\register_code_s.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\register_code_s.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_toast.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_toast.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\register_button.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\register_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ele_sub_s.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ele_sub_s.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_back.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\switch_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_calendar.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ico_calendar.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\location_nifo_bg.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\location_nifo_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\regist_check.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\regist_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\try_plays.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\try_plays.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kuang.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_kuang.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg_dialog.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_bg_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\main_car_many.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\main_car_many.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button_dialog.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_button_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_listview.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\shape_login_listview.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
         "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\code_text.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\code_text.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\location_nifo_bg.xml",
-        "source": "D:\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\location_nifo_bg.xml"
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_trajectory.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ico_trajectory.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\2b014612cc08f13e9cd7367d3c0d667717e71699\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\ele_add_s.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\ele_add_s.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d67d6b0ecbd201cc29ec672b31719dd291a5331e\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\user_agreement.xml",
+        "source": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\src\\main\\res\\drawable\\user_agreement.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\d0aad2385334a68a44948ca201d6540fb1ff5f7a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\zhangqiang\\.android\\build-cache\\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     }
 ]

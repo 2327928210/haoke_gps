@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_color"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <include layout="@layout/layout_titlebar" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:background="@drawable/login_bg"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/login_2" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/layout_x_45"
+            android:paddingRight="@dimen/layout_x_45"
+            android:paddingTop="@dimen/layout_x_15" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/layout_x_10"
+                    android:text="@string/register_nickname"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layout_x_20" />
+
+                <EditText
+                    android:id="@+id/ed_nickname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/layout_y_45"
+                    android:layout_weight="1"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="@dimen/layout_x_26" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/layout_x_10"
+                    android:layout_toRightOf="@+id/imageView1"
+                    android:text="@string/register_email"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layout_x_20" />
+
+                <EditText
+                    android:id="@+id/ed_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/layout_y_45"
+                    android:layout_weight="1"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:maxLength="30"
+                    android:inputType="textEmailAddress"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="@dimen/layout_x_26" >
+                </EditText>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/layout_x_10"
+                    android:layout_toRightOf="@+id/imageView1"
+                    android:text="@string/register_device_number"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layout_x_20" />
+
+                <EditText
+                    android:id="@+id/ed_device_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/layout_y_45"
+                    android:layout_weight="1"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:inputType="number"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="@dimen/layout_x_26" >
+                </EditText>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/layout_x_10"
+                    android:layout_toRightOf="@+id/imageView1"
+                    android:text="@string/register_password"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layout_x_20" />
+
+                <com.haoke.view.PassWordEdit
+                    android:id="@+id/ed_password"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/layout_y_45"
+                    android:layout_weight="1"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:inputType="textPassword"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="@dimen/layout_x_26" >
+                </com.haoke.view.PassWordEdit>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/layout_x_10"
+                    android:layout_toRightOf="@+id/imageView1"
+                    android:text="@string/register_confirm_password"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/layout_x_20" />
+
+                <com.haoke.view.PassWordEdit
+                    android:id="@+id/ed_confirm_password"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/layout_y_45"
+                    android:layout_weight="1"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:inputType="textPassword"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="@dimen/layout_x_26" >
+                </com.haoke.view.PassWordEdit>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="@color/white" />
+
+            <CheckBox
+                android:id="@+id/checkBox1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_x_10"
+                android:button="@drawable/register_code_s"
+                android:checked="true"
+                android:text="@string/register_get_Agreement"
+                android:textColor="@color/white"
+                android:textSize="@dimen/layout_x_16"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/bt_register"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_y_60"
+                android:layout_alignLeft="@+id/bt_login"
+                android:layout_below="@+id/bt_login"
+                android:layout_marginTop="@dimen/layout_x_15"
+                android:background="#fff"
+                android:text="@string/register"
+                android:textColor="@color/login_text" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -3,66 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\zbar-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="f80dd2878dd76cb5bece023aae9ebada047f8c79">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-1.0.0_122ceb4744ae2c195a4aedfecf5d19abd88260d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\zbar-camera-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="483348e95c031143345404573957adafbff99ca1">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-camera-1.0.0_00518960a759eb4f9e9ba4b881b4b028b941f8be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\BaiduLBS_Android.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="a5cdfa8887b52fc79d86c9c81acdb6e9e2a53417">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_abe30d101a445e3207c64572659316efe654802b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\jpush-android-3.0.8.jar"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\jpush-android-3.0.8.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-3.0.8_a6a81d4a2cfbac62ae6d9d77e816a6c9d54a9958\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-3.0.8_b8e63ceeda3ccc1ce64d8ec28c769a415444ad53\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\pgyer_sdk_2.7.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\e313736e28fa64857cb97ad294327571423965b1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="b0d43a1d3e5cbe8f1b67572b85c51c8fbaa03d14">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\pgyer_sdk_2.7.0_d21e2e7695f45f212ccc46bdb63dd142772bb81f\classes.dex" />
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_621e1847df6ecae9bb4d7159a44b72eb3b2f6c4f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\BaiduLBS_Android.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="a5cdfa8887b52fc79d86c9c81acdb6e9e2a53417">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_abe30d101a445e3207c64572659316efe654802b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\library\build\intermediates\bundles\default\classes.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\b4bff0a58a9d51787e31fd2119cc305e43580792\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\4\classes_61061c32bcb55808263e2fa8871c72d9526858b3\classes.dex" />
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be6f16e3a519e2dc5c9034ddd998bb8cd71ca514\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,106 +35,106 @@
         optimize="true"
         revision="26.0.2"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_8631d5e575adbf6eb46989f066d9266c74a8b80f\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_8631d5e575adbf6eb46989f066d9266c74a8b80f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\zbar-1.0.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\61157b5b1776b36e439e9718272ea0d2e38ae26e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="f80dd2878dd76cb5bece023aae9ebada047f8c79">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-1.0.0_122ceb4744ae2c195a4aedfecf5d19abd88260d5\classes.dex" />
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48c37d88ae627b7622097b66d33e957dde2d548e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\247ec652be0aca9af212c883a2dac1c3460532f7\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_451d3f7dfcac08c8ed045816ea5b8c0ca30a12eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_0611ea20a627b1c086abdabd369e646357870a68\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_fd22c88eccb8a9c2b74ca74547536adcb01f3542\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\jpush-android-3.0.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-3.0.8_a6a81d4a2cfbac62ae6d9d77e816a6c9d54a9958\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\pgyer_sdk_2.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="b0d43a1d3e5cbe8f1b67572b85c51c8fbaa03d14">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\pgyer_sdk_2.7.0_d21e2e7695f45f212ccc46bdb63dd142772bb81f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\2b014612cc08f13e9cd7367d3c0d667717e71699\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76175f6a7d6211ef6382e2a35ee37b3bb64d42ec\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\jcore-android-1.1.6.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="d68147a2495acffea57266427a8b76a1e99baea8">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jcore-android-1.1.6_9f611942f34f656c98d51c6395b3cd18fc21d4ef\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\2b014612cc08f13e9cd7367d3c0d667717e71699\output\jars\classes.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\187826823b0f71ba324ce5ef31585e0eefcccdb9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76175f6a7d6211ef6382e2a35ee37b3bb64d42ec\classes.dex" />
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0538e550f4e27819a35bbca1bdbfb851084fe2d7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\okhttp-2.7.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\d621da83234d4fb019b0a66fa0932b3f24295476\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="28.0.0"
-        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.7.0_cf20ab924515a3a2d50f848b547cef63ddbd5811\classes.dex" />
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26fed114fc62207ce9a4d06b027b772b371c30a1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\ae8058ce6b7f77a0a9c2dd31c954ef40f79d8da1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_412b2de74a2d290a7840a2277a07f0466ba65a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\bcc2661c0f1fe2829120c4b05c2fbc44abc03c45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89ee19821e015bbd5733ef5f926232e0db169d78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\0098d4580ce53955b429c0325d3f482e373a2d8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8b687db0660c44a05e7b7be40de91370ae10c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\8d10895e04abdc1f7661ead794e9c34cf564b0ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6eba1e6744ef8f5a1271023803b6fed721ce43d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\nineoldandroids-2.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_0611ea20a627b1c086abdabd369e646357870a68\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_7050b3afa958f55ab302a2cdf60382e4d6bb3051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\8a5da014cdcebf0f08af823b98448599043d8f72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fec1c527ff562113e781f12f47f9f82d84163e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\0933223851265fbf931f0e44bf6c66c61ef52d3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7a99d287dfe60d5deaaca5787613905a191eabd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\7f94a8955d402598b7cf443893d778996ed2fad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6458362c49ad56c9f6b6e0768f1473316462bd88\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -179,70 +143,106 @@
         optimize="true"
         revision="26.0.2"
         sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb5ea2ed66a641128f7d59c032a92c0f1cedc8c\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb5ea2ed66a641128f7d59c032a92c0f1cedc8c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\247ec652be0aca9af212c883a2dac1c3460532f7\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_451d3f7dfcac08c8ed045816ea5b8c0ca30a12eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_869e3001d45eccbee8399df84c80f99bfc52993d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\okhttp-2.7.0.jar"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\okhttp-2.7.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.7.0_cf20ab924515a3a2d50f848b547cef63ddbd5811\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.7.0_e4227e5d0d2f614f0548409cb8070427cf6d51c2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\zbar-camera-1.0.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\5b7cb97ce05b77437cc32792686fc70cc305785f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="483348e95c031143345404573957adafbff99ca1">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-camera-1.0.0_00518960a759eb4f9e9ba4b881b4b028b941f8be\classes.dex" />
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eecddeb334bcf1e9be7868b3ed0b5100e258d0f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\e98d3947d45f2f9d7bd968e3740657293f7a4e9d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb5ea2ed66a641128f7d59c032a92c0f1cedc8c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\jcore-android-1.1.6.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\5eeee49f25eb3602bc78f3583937a89c7795d7ad\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="d68147a2495acffea57266427a8b76a1e99baea8">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jcore-android-1.1.6_9f611942f34f656c98d51c6395b3cd18fc21d4ef\classes.dex" />
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a29cfd833bfe91f4f7bac80b4438092f56a420f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\zhangqiang\.android\build-cache\ec4286e892e01222beacfdb70bf5998b1dbccac0\output\jars\classes.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\5ee390edc71ec64dd1988e6734330018a0804388\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47382e928dcaef55c31983ef046bf4750a14b912\classes.dex" />
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_895cf6a9b6593aebe8f29c29f7b0ccf3d664977d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11a294f511cf1e23f525c87ca4cc1d92c9f3d6a2">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release_cfa400a05e98bf5ca5624c963ad724ea10473bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\1c35a663bcd87a6a577d54b6c89afb95d74ca59e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d94fc74a708ac9f899d892010bb5cdf94e353770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\f3d453ffc487d511036c9948d850ae3829b5a1cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a535b909f6e8906019e6b8cf05336c65d2e3f74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\6b05498592518806b4c6b72edc93e2bfa26a187c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa3709ed9e4f2cb30e28be3e24e005e81107454c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\4118696d934a0d1f943ec9f952aa9454a27f27b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f6a8a70ef3c374d8d185ba6dbe4cde24853823f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\5e38ea5a9a2682a4971360d14ffc9fb0ef1b6439\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65ef3b35e1738acedf562b81dcb9ab6cfbc5c391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\9971f4b45ec1b01588a9b66b72eb4a8ef256716e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_add21a6ba1d9e4a93ac1f4f21bd56c9cc7d0bcf4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -251,34 +251,43 @@
         optimize="true"
         revision="26.0.2"
         sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d894e5974025b033921a292e667f0aefd119770\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d894e5974025b033921a292e667f0aefd119770\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\core-3.0.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\c956b60b15277d44f1146383a0242a805436bb8a\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_51d19a268e056a9912145cbdab4fbfeeabbed650\classes.dex" />
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b76a522a3eb1bea169ccda12f7677d43df65c2a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\okio-1.6.0.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\d0aad2385334a68a44948ca201d6540fb1ff5f7a\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_fd22c88eccb8a9c2b74ca74547536adcb01f3542\classes.dex" />
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98e60a7b71b195f7308c77d872ed91d44b8230b1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\bugly_crash_release.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\dd114b66869f0559b4ba73ed5a1d2eda9e078778\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="11a294f511cf1e23f525c87ca4cc1d92c9f3d6a2">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release_4adacdcfa77737b3e4b9a3769be169d9a4eda8eb\classes.dex" />
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84f9ed04179e49a147ed1955d5eb7ff6a5c78ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_138d926888bc34c11b2ed6bb4fab1940d74e0cd8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -287,25 +296,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_505a06f23338e9508133ad91b91e115b4cfd06d6\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_505a06f23338e9508133ad91b91e115b4cfd06d6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\bugly_crash_release.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\a8bbc07b8dfa6185206c765a0a293dc1f0c9cb16\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="28.0.0"
-        sha1="11a294f511cf1e23f525c87ca4cc1d92c9f3d6a2">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release_4adacdcfa77737b3e4b9a3769be169d9a4eda8eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\glide-3.6.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.0"
-        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_37aa183e69cf2ab69716f99ebe341aac10966902\classes.dex" />
+        revision="26.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a4d0d2fd0a0d3c862fa1e799103aa7dc4a64380\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -314,25 +314,421 @@
         optimize="true"
         revision="26.0.2"
         sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad62b0a1d25e22fa02d1ca809d746ffb394b6f17\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad62b0a1d25e22fa02d1ca809d746ffb394b6f17\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\glide-3.6.1.jar"
+        jar="C:\Users\zhangqiang\.android\build-cache\f92a551437b0f8c0eef9503aa8a10118cd62a422\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_37aa183e69cf2ab69716f99ebe341aac10966902\classes.dex" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6eac01ce4b6209a6e0a9e09cd8f18ba33b93613a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\haoke_gps\haoke_gps\libs\core-3.0.0.jar"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\okio-1.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="28.0.0"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_4f5877ce240f817c6966e532085bf1523154a80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\0ee8c4329d6d6712a7902a3059778c6a804da870\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a2a004e57527e773b3b740f27d9833db88e6f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\f07731bb215af1ce105fcbcd3991617cfdaef0df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_381646c368ce50c783ffeb75fdf0a5df0252326b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\zbar-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80dd2878dd76cb5bece023aae9ebada047f8c79">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-1.0.0_0bf57d82dbb1657953b4bc68a88d318ed55c4632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\e293b36ca1b14766e830e0122fec02e6aa76af4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4700e3f440ea6a26ac89842024398d4946e4d7e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\bdf8db6eafa157969623d24a6825c2fc2e3c8a06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ce5be591683d607fe52bee7175f73a1b20333c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c435f3edc2db5fa2ce68d599a64fe3dd47789496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5cdfa8887b52fc79d86c9c81acdb6e9e2a53417">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_f7a167ad2293326727751b4c68edaffb13e94a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\272e81d21e030ab47c18c85e264c003112c79600\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2373d7293030e6d3e24f4625eb8494c8d35c0445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\zbar-camera-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="483348e95c031143345404573957adafbff99ca1">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\zbar-camera-1.0.0_ccae989e6ac010c13a08d4d3fc2644b590e8bb0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\7e96da5519cc8ebe14489ae992c90dad479a3845\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dff0438c195797eb96cfcf9211363a31a5f8f653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\f731a997f78ad43408be4f6cc8e23331a76bc1b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a447a987ff49193524d64931e3d3ee9661cc536e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\ac006f60b694843baaa29339e983a507becb7ec3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccba37a503a089fdcd237eced584888f16ecd791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\7256d2542c49ea89599fd88f6ce5ad04de3c22ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bd506ac6b3b20143631b997d4730631fe321f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\9c523e5e6290507465bead8c9fa4d0b2956d1a82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4352ba9da28ba59bde276e56b1fb7dcbc6496e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\2b014612cc08f13e9cd7367d3c0d667717e71699\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76175f6a7d6211ef6382e2a35ee37b3bb64d42ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
-        <dex dex="D:\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_51d19a268e056a9912145cbdab4fbfeeabbed650\classes.dex" />
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_753e7f69c0611b56d9485095747ba892eab6b4a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\jcore-android-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d68147a2495acffea57266427a8b76a1e99baea8">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\jcore-android-1.1.6_8fbd2019a2478bb6969918f0e1df6e8a375d6c70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\3f22c3fbcd590cbe3a3dc70d3e6ada68a5898237\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdc0140c8f531d955a45d30c98b2a2d2dc79fa50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\d67d6b0ecbd201cc29ec672b31719dd291a5331e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ca83ca609b8399458dc7a5bfd918ab571a15e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\e4c998392c994242b6de5e6a234f951f72654217\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_236c7e789d104b0b4433d7f12d1912689266d0d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\240fd8b590afe1429b8acad91d1131041818c81b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0e41d39b22ace95bbcd6cedc4f6d9e4ecaab3b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\247ec652be0aca9af212c883a2dac1c3460532f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_451d3f7dfcac08c8ed045816ea5b8c0ca30a12eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\16e650cecc85cc20b0cf4ae678e46314d919f0fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccb812d063dbd5e26ba449f0c40dbf0938e096e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\a56de4f9cc636ef872005fb20c161a7547953fe2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e64c946535d7a0103d91ff976a6efceb46cb536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\ecc3e3e4222fcba876e1325d4e9ac78c42ecd7e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_869e3001d45eccbee8399df84c80f99bfc52993d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\b31b72c1b56943fba8fa3fea91a0f6a5fcdcf54d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4219f1b030791c09bbeaa380af3a176ba3777066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\0822dbeb9ac2cfeb4e9e146d20815bb88ffc0f60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58d0aa6ef57ca14c8a30487bec81564418e27784\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\83410542be83829c71c45c267059e8b0882e4e84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1452f57ff5c73a4f56d77a8647422f0d7d776bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\ec4286e892e01222beacfdb70bf5998b1dbccac0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47382e928dcaef55c31983ef046bf4750a14b912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\aa78502d4323864d6e62a927f008767f07dd4e1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_543d06a9058f583982e398504820fea65fb1b1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\b050fd245c56cee48556f1568fb618138cea6013\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68b34a70a53c6fb1b0053b443a6f037983d914d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\dde5a0ccb17ba92fdd3b3cfb6d0ff08f2c263c4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69786ed87f1bd7105b20eff32661982143da5092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\2328172d68aebde929f4e02c965f4ea0a6c20155\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_183e9f9bfe0b448dd5ab76676f48080faeffb8f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\3c1ef0eba80de4fce6587b0c68d0745cbf09947a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17157b60132af349ce0065771f1b1f6c2fa49d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\7e4526324819235789101d97dc5845f964c1a3f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fb178ef4936cd222b273bad857930e767861d4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\59cf3d4aefb5070e33b6f1d2322881a91d869e60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abfc8b01f08bf7f2768d8f8d7b2c28e25b1ff31b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\4c98f364909cc18e1a60a6d5a58faea0a9e8b8f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_413de1689538e1599f1205009dc17f9c5db878f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\libs\pgyer_sdk_2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b0d43a1d3e5cbe8f1b67572b85c51c8fbaa03d14">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\2\pgyer_sdk_2.7.0_d0bcc703f55118ec62f7ce0558d85442c881c89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\097d223412d4d8b65701be183fb2811190d01a10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d11ea88be6036a8a0bf5cd829212735013dc2102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\6cbb35b7da0623f38f2024bdf0a21f70c53b02c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_689cc5baffc06d360d32fa96a47244c1529e1d3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\b17012e7e85a6edaedd2721890a6736a1d650ee4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34d575466c81245ff43294c0e620cf65d616a0b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\b855d36c607ba2288d86c24c81670987d5edd8f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92987410e24099dbd3fd120eaffc00d722b83cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhangqiang\.android\build-cache\d23ea72ca92c778f54d6514879ede2526d78b250\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10e09068d6f271a544a749f09aa8ebc36c6f280c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
+        <dex dex="D:\AndroidProject\001_iFengiot\001_Code\003_New_Spider\haoke_gps\haoke_gps\build\intermediates\transforms\dex\debug\folders\1000\4\classes_3aa5e55b152d492ec2c154eb1559b954e6d2c463\classes.dex" />
     </item>
 
 </items>

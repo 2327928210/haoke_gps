@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/title_rel"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <include layout="@layout/layout_titlebar" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <com.baidu.mapapi.map.MapView
+                android:id="@+id/mTexturemap"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+            </com.baidu.mapapi.map.MapView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_y_70"
+                android:background="#afff"
+                android:orientation="vertical"
+                android:padding="@dimen/layout_x_5" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/tra_lat"
+                        android:textColor="@color/bt_color"
+                        android:textSize="@dimen/layout_x_20" />
+
+                    <TextView
+                        android:id="@+id/tv_lat"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:textColor="@color/bt_color"
+                        android:textSize="@dimen/layout_x_20" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/tra_lng"
+                        android:textColor="@color/bt_color"
+                        android:textSize="@dimen/layout_x_20" />
+
+                    <TextView
+                        android:id="@+id/tv_lng"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text=""
+                        android:textColor="@color/bt_color"
+                        android:textSize="@dimen/layout_x_20" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/location_time"
+                        android:textColor="@color/bt_color"
+                        android:textSize="@dimen/layout_x_20" />
+
+                    <TextView
+                        android:id="@+id/tv_date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textColor="@color/bt_color"
+                        android:textSize="@dimen/layout_x_20" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/layout_x_20" >
+
+            <CheckBox
+                android:id="@+id/bt_play"
+                android:layout_width="@dimen/layout_x_50"
+                android:layout_height="@dimen/layout_x_50"
+                android:background="@drawable/try_plays"
+                android:button="@null"
+                android:text="" />
+
+            <ProgressBar
+                android:id="@+id/seekBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_x_20"
+                android:layout_marginRight="@dimen/layout_x_20"
+                android:layout_weight="1"
+                android:max="100"
+                android:progress="0" />
+
+            <Button
+                android:id="@+id/bt_add"
+                android:layout_width="@dimen/layout_x_50"
+                android:layout_height="@dimen/layout_x_50"
+                android:background="@color/white"
+                android:text="" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

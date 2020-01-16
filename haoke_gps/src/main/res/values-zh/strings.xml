@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="noknow_location">未知位置</string>
+    <string name="device_alram_setting">报警设置</string>
+    <string name="device_chaosu_title">速度（km/h）</string>
+    <string name="device_chaosu_title2">持续时间（s）</string>
+    <string name="cue_is_no_bits">不能超过%d位</string>
+    <string name="device_info_chaosu_title">请输入速度（单位:km/h）</string>
+    <string name="device_info_chaosu_title2">请输入超速持续时间（单位:秒）</string>
+    <string name="device_alram_chaosu">超速报警</string>
+    <string name="device_config_juli">定位上传距离</string>
+
     <string name="user_info_logout_info">你还未保存个人信息的次改，是否确认返回</string>
     <string name="cue_nickname_is_no_Emoji">不支持表情</string>
     <string name="app_notify">确定打开通知功能</string>
     <string name="cue_email_is_no">邮箱格式有误</string>
     <string name="device_no_line">设备不在线 </string>
+
     <string name="device_info_ks">是否确定开锁？</string>
     <string name="device_info_door_close">关锁</string>
     <string name="device_info_door_open">开锁</string>

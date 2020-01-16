@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="noknow_location">Unknown location</string>
+    <string name="device_alram_setting">Alarm system</string>
+    <string name="device_chaosu_title">Speed (km / h)</string>
+    <string name="device_chaosu_title2">Duration (s)</string>
+    <string name="cue_is_no_bits">Can not exceed %d bit</string>
+    <string name="device_info_chaosu_title">Please enter speed (unit: km/h)</string>
+    <string name="device_info_chaosu_title2">Please enter the duration of speeding (unit: sec).</string>
+    <string name="device_alram_chaosu">Speeding alarm</string>
+    <string name="device_config_juli">Positioning upload distance</string>
+
     <string name="user_info_logout_info">You have not saved the personal information of the second change, confirm return</string>
     <string name="cue_nickname_is_no_Emoji">Don not support emoticons</string>
     <string name="app_notify">Determine to open notification function？</string>

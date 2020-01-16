@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\haoke_gps\\haoke_gps\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+        "outputFile": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\haoke_gps\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
         "map": [
             {
                 "to": {
@@ -1816,7 +1816,7 @@
                     "endOffset": 10684
                 },
                 "from": {
-                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "file": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1835,7 +1835,7 @@
                     "endOffset": 10798
                 },
                 "from": {
-                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "file": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1854,7 +1854,7 @@
                     "endOffset": 10906
                 },
                 "from": {
-                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "file": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1873,7 +1873,7 @@
                     "endOffset": 10985
                 },
                 "from": {
-                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "file": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1892,7 +1892,7 @@
                     "endOffset": 11059
                 },
                 "from": {
-                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "file": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1911,7 +1911,7 @@
                     "endOffset": 11140
                 },
                 "from": {
-                    "file": "D:\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
+                    "file": "D:\\AndroidProject\\001_iFengiot\\001_Code\\003_New_Spider\\haoke_gps\\library\\build\\intermediates\\bundles\\default\\res\\values-fi\\values-fi.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

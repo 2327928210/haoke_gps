@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_title">
+        <item>Unknown information</item>
+        <item>Low battery</item>
+        <item>ACC ON</item>
+        <item>ACC OFF</item>
+        <item>The external power cord drops</item>
+        <item>Door Open</item>
+        <item>Speeding</item>
+        <item>SOS alarm</item>
+        <item>Go into GPS blind area</item>
+        <item>Vibrates</item>
+        <item>Abnormal movement</item>
+        <item>Go out GPS blind area</item>
+        <item>Number 1 of the fence out of the fence</item>
+        <item>Number 1 of the fence into the fence</item>
+        <item>Number 2 of the fence out of the fence</item>
+        <item>Number 2 of the fence into the fence</item>
+        <item>Number 3 of the fence out of the fence</item>
+        <item>Number 3 of the fence into the fence</item>
+        <item>Number 4 of the fence out of the fence</item>
+        <item>Number 4 of the fence into the fence</item>
+        <item>Number 5 of the fence out of the fence</item>
+        <item>Number 5 of the fence into the fence</item>
+        <item>El dispositivo ha sido derribado</item> <!-- 112 -->
+    </string-array>
+    <string-array name="device_mode">
+        <item>El modo de trabajo de seguimiento continuo</item>
+        <item>Carga de modo de intervalos de tiempo</item>
+        <item>Carga de modo de tiempo fijo</item>
+    </string-array>
+    <string-array name="device_mode2">
+         <item>Carga de modo de intervalos de tiempo</item>
+        <item>Carga de modo de tiempo fijo</item>
+    </string-array>
+    <string-array name="location_time">
+        <item>20s</item>
+        <item>60s</item>
+        <item>10m</item>
+        <item>1h</item>
+    </string-array>
+    <string-array name="location_time_gt12">
+        <item>El modo de trabajo de seguimiento continuo</item>
+        <item>10min</item>
+        <item>30min</item>
+        <item>60min</item>
+        <item>180min</item>
+        <item>1440min</item>
+    </string-array>
+    <string-array name="location_time_gt3a">
+        <item>1min</item>
+        <item>10min</item>
+        <item>60min</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string name="Please_bond_device">Por favor, Union de instalación</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="apn">Ajustes APN</string>
+    <string name="apn_apn">APN：</string>
+    <string name="apn_name">Nombre de usuario：</string>
+    <string name="apn_password">Contraseña：</string>
+    <string name="apn_sim">SIM：</string>
+    <string name="app_name">SPIDER</string>
+    <string name="app_notify">¿Está seguro de activar la función de notificación?</string>
+    <string name="april">april</string>
+    <string name="august">august</string>
+    <string name="binding">Blindador</string>
+    <string name="binding_please_enter_imei_number">Ingrese el número IMEI para enlazar</string>
+    <string name="binding_present">Dispositivo Actual</string>
+    <string name="cue_APN_is_no_empty">APN no pueden estar vacío</string>
+    <string name="cue_SIM_is_no_empty">SIM no pueden estar vacío</string>
+    <string name="cue_bonded_successful">Blindado exitoso</string>
+    <string name="cue_click_again_to_exit">Presione nuevamente para salir del programa</string>
+    <string name="cue_code_is_no_empty">El código de verificación no puede estar vacío</string>
+    <string name="cue_content_is_no_empty">Contenido no pueden estar vacío</string>
+    <string name="cue_edit_successful">Modificación exitoso</string>
+    <string name="cue_email_is_no">El formato del buzón está mal</string>
+    <string name="cue_email_is_no_empty">El correo no puede estar vacío</string>
+    <string name="cue_is_no_bits">No puede exceder %d</string>
+    <string name="cue_is_no_correct">Formato incorrecto</string>
+    <string name="cue_is_no_max">Longitud no superior a 16</string>
+    <string name="cue_is_no_max_16">La longitud no debe ser mayor que 16</string>
+    <string name="cue_is_no_max_30">La longitud no debe ser mayor que 30</string>
+    <string name="cue_is_no_max_40">La longitud no debe ser mayor que 40</string>
+    <string name="cue_login_successful">Inicio de sesión exitoso</string>
+    <string name="cue_macid_is_no_correct">El número de dispositivo es incorrecto de longitud</string>
+    <string name="cue_macid_is_no_empty">El número del dispositivo no puede ser nulo</string>
+    <string name="cue_network_anomaly">Anomalías de la red</string>
+    <string name="cue_nickname_is_no_Emoji">No apoya la expresión</string>
+    <string name="cue_nickname_is_no_empty">El nombre no debe estar en blanco</string>
+    <string name="cue_nickname_is_no_max">La longitud del nombre no será superior a 16</string>
+    <string name="cue_no_device_info">No se obtuvo información del dispositivo</string>
+    <string name="cue_no_network">La red no puede conectarse</string>
+    <string name="cue_password_is_no_16_bits">La contraseña no puede exceder de 16 bits</string>
+    <string name="cue_password_is_no_confirm">Las contraseñas no coinciden</string>
+    <string name="cue_password_is_no_correct">La longitus de la contraseña es incorrecta</string>
+    <string name="cue_password_is_no_empty">La contraseña no puede estar vacía</string>
+    <string name="cue_phone_is_no_Binding">Por favor blinde el dispositivo primero</string>
+    <string name="cue_phone_is_no_correct">El número de teléfono no está en el formato correcto</string>
+    <string name="cue_phone_is_no_empty">El número de teléfono móvil no puede estar vacío</string>
+    <string name="cue_please_wait">Por favor espere</string>
+    <string name="cue_recording">La última grabación de espera sin final</string>
+    <string name="cue_set_name">Introduzca el nombre que quieras</string>
+    <string name="cue_unbonded_successful">Bloqueado exitoso</string>
+    <string name="december">december</string>
+    <string name="device_alram">Función de Alarma</string>
+    <string name="device_alram_acc">Alarma ACC</string>
+    <string name="device_alram_blind">Alarma Ciega</string>
+    <string name="device_alram_chaosu">Alarma de velocidad</string>
+    <string name="device_alram_displacement">Alarma de desplazamiento</string>
+    <string name="device_alram_door">Alarma de Puerta</string>
+    <string name="device_alram_electricity">Alarma de Batería Baja</string>
+    <string name="device_alram_jones">Alarma de falla de alimentación externa</string>
+    <string name="device_alram_remove">La demolición de la alarma</string>
+    <string name="device_alram_remove_tag">Extirpación alarma modo de trabajo</string>
+    <string name="device_alram_setting">Configuraciones de alarma</string>
+    <string name="device_alram_shock">Alarma de Vibración</string>
+    <string name="device_alram_shock_1">Modo activado</string>
+    <string name="device_alram_shock_2">Modo dos</string>
+    <string name="device_alram_shock_3">Modo tres</string>
+    <string name="device_binding">Dispositivo Vinculado</string>
+    <string name="device_chaosu_title">Velocidad (km / h)</string>
+    <string name="device_chaosu_title2">Duración (s)</string>
+    <string name="device_config">Configuración del dispositivo</string>
+    <string name="device_config_1inqing">Configuración del número</string>
+    <string name="device_config_juli">Distancia de carga de posicionamiento</string>
+    <string name="device_config_mode">El modo de trabajo</string>
+    <string name="device_config_num1">Número1</string>
+    <string name="device_config_num2">Número2</string>
+    <string name="device_config_num3">Número3</string>
+    <string name="device_config_phonenum">Configuración del número de teléfono</string>
+    <string name="device_config_sosnum">Configuración del número de teléfono SOS</string>
+    <string name="device_config_spacing">Intervalo de carga del dispositivo</string>
+    <string name="device_config_tonghua">Configuración de número de asignación</string>
+    <string name="device_info">Información del dispositivo</string>
+    <string name="device_info_Faster_than_20">A más velocidad de 20KM / h</string>
+    <string name="device_info_GPS_not_positioned">Sin localización GPS</string>
+    <string name="device_info_Oil_break_power_off">Cortar el suministro de combustible</string>
+    <string name="device_info__confirm">¿La conexión a distancia?</string>
+    <string name="device_info__is_chongqi">¿Reiniciando?</string>
+    <string name="device_info_acc">ACC</string>
+    <string name="device_info_battery">Batería</string>
+    <string name="device_info_break_power_confirm">Advertencia：corte de aceite y electricidad \nSe presentarán los peligros existentes. ¿Quieres continuar? "Si”, “No"</string>
+    <string name="device_info_chaosu_title">Por favor, introduzca la velocidad (unidad: km / h)</string>
+    <string name="device_info_chaosu_title2">Ingrese la duración de la velocidad (en segundos)</string>
+    <string name="device_info_chongqi">Reiniciar</string>
+    <string name="device_info_defense">Defensa</string>
+    <string name="device_info_door">Puerta</string>
+    <string name="device_info_door_close">Lock</string>
+    <string name="device_info_door_open">Desbloquear</string>
+    <string name="device_info_factory">Reiniciar</string>
+    <string name="device_info_factory_confirm">Reiniciar</string>
+    <string name="device_info_guanji">Power off</string>
+    <string name="device_info_imei">Número de IMEI</string>
+    <string name="device_info_ks">¿Está seguro de que la cerradura?</string>
+    <string name="device_info_mode">Elegir el modo de trabajo：</string>
+    <string name="device_info_mode_date">Punto de tiempo：</string>
+    <string name="device_info_mode_date_tag">(Siempre al día con poco después de la hora de cargar la configuración del tiempo de una posición)</string>
+    <string name="device_info_mode_default">(El intervalo de tiempo de 60 segundos)</string>
+    <string name="device_info_mode_second">El intervalo de tiempo：</string>
+    <string name="device_info_mode_second_tag">(El intervalo de tiempo de 60 segundos, el establecimiento de la zona: 10-1800 segundos)</string>
+    <string name="device_info_mode_time">El intervalo de tiempo：</string>
+    <string name="device_info_mode_time_tag">(Intervalo de tiempo predeterminado de 1440 minutos, establecer el rango de 5-7200 minutos)</string>
+    <string name="device_info_mydevice">Mis dispositivos</string>
+    <string name="device_info_name">Nombre</string>
+    <string name="device_info_nav_confirm">¿Se ha llevado a cabo el navegador?</string>
+    <string name="device_info_new">No se recibió información del dispositivo. Haga clic en sincronizar para obtener los datos más recientes</string>
+    <string name="device_info_recording">Configuración de longitus de grabación</string>
+    <string name="device_info_remove_time">Tiempo de trabajo：</string>
+    <string name="device_info_remove_time_tag">(20 minutos de tiempo de trabajo por defecto,creado entre 3-60 minutos)</string>
+    <string name="device_info_setup">Ajustes del dispositivo</string>
+    <string name="device_info_unbound">Desvincular</string>
+    <string name="device_info_unbound_confirm">¿Desea desvincular el dispositivo actual?</string>
+    <string name="device_info_unbound_version_new">Última versión de dispositivo</string>
+    <string name="device_info_version">Versión</string>
+    <string name="device_info_version_mcu">MCU</string>
+    <string name="device_install_goolemap">Todavía no ha instalado el mapa de Google o la versión del mapa.</string>
+    <string name="device_no_line">El equipo no está en línea</string>
+    <string name="device_recording_unit">S</string>
+    <string name="device_synchro">Sincronizar</string>
+    <string name="device_twocode">Exploración de Códigos de Barras</string>
+    <string name="electronic_300">El radio no debe ser inferior a 300</string>
+    <string name="electronic_core">Por favor, haga clic en el mapa para establecer el punto central de la cerca</string>
+    <string name="electronic_fence">Cerca electrónica</string>
+    <string name="electronic_fence_add_ele">Añadir (hasta 5 )</string>
+    <string name="electronic_fence_max_ele">La cerca electrónica añade hasta cinco</string>
+    <string name="electronic_meter">M</string>
+    <string name="electronic_name">Observaciones</string>
+    <string name="electronic_zero">El radio tiene que ser diferente de cero</string>
+    <string name="error_10001">Parámetro de error</string>
+    <string name="error_10002">Los parámetros deben estar vacíos</string>
+    <string name="error_10003">Error de firma (clave)</string>
+    <string name="error_10004">Firma (clave) vencida</string>
+    <string name="error_101013">El protocolo de usuario no está de acuerdo</string>
+    <string name="error_101014">El número de celular está registrado</string>
+    <string name="error_101015">La contraseña modificada es la misma que la original</string>
+    <string name="error_101016">Contraseña equivocada</string>
+    <string name="error_101017">Usuario no registrado</string>
+    <string name="error_101021">La cuenta no existe o la contraseña está equivocada</string>
+    <string name="error_101031">El dispositivo está conectado</string>
+    <string name="error_101050">El buzón no está registrado</string>
+    <string name="error_101051">Equipo fuera de línea</string>
+    <string name="error_101052">No conectado al dispositivo</string>
+    <string name="error_101053">Tiempo de conexión: el dispositivo no ha respondido a los resultados</string>
+    <string name="error_101054">Recibiendo instrucciones, esperando resultados</string>
+    <string name="error_101055">Corte de combustible: la velocidad del vehículo es excesiva y se ejecuta automáticamente cuando la velocidad del vehículo se desacelera</string>
+    <string name="error_101056">El GPS no está localizado y se ejecuta automáticamente cuando el GPS se recupere</string>
+    <string name="error_101057">Envíe instrucciones fuera de línea</string>
+    <string name="error_102011">Equipo no encontrado</string>
+    <string name="error_20001">Anomalía del servidor</string>
+    <string name="error_20002">Sin ese recurso</string>
+    <string name="error_201011">Usuario no registrado</string>
+    <string name="error_202011">El usuario no está vinculado al dispositivo</string>
+    <string name="error_202021">El número de cercas electrónicas está por encima del límite</string>
+    <string name="error_202022">Sin la valla, podría haber sido borrada</string>
+    <string name="error_203001">No se puede repetir el mensaje en UN minuto</string>
+    <string name="error_203002">UN montón de mensajes en una hora</string>
+    <string name="error_203003">Los mensajes de hoy se han agotado</string>
+    <string name="error_204001">No se han encontrado datos de trayectoria</string>
+    <string name="error_205001">Sin la aplicación</string>
+    <string name="february">february</string>
+    <string name="forgot_password">¿Olvidaste la contraseña?</string>
+    <string name="forgot_reset">Reiniciar Contraseña</string>
+    <string name="fr">fr</string>
+    <string name="help">Ayuda</string>
+    <string name="january">january</string>
+    <string name="july">july</string>
+    <string name="june">june</string>
+    <string name="language">ES</string>
+    <string name="location_acc">ACC：</string>
+    <string name="location_bvalid">Ubicación válida：</string>
+    <string name="location_bvalid_1">GPS</string>
+    <string name="location_bvalid_2">LBS</string>
+    <string name="location_bvalid_4">WiFi</string>
+    <string name="location_dianya">Tensión: </string>
+    <string name="location_door">Puerta：</string>
+    <string name="location_electricity">Electricidad：</string>
+    <string name="location_fail">Desactivación del dispositivo</string>
+    <string name="location_gps_time">GPS Reloj：</string>
+    <string name="location_gsm_time">GSM Reloj：</string>
+    <string name="location_location">Ubicación：</string>
+    <string name="location_nav">Navigation</string>
+    <string name="location_no_data">Sin datos, descárguelo para obtener los datos más recientes.</string>
+    <string name="location_off_line">La demolición de la alarma</string>
+    <string name="location_state">State：</string>
+    <string name="location_state_offline">Off-line</string>
+    <string name="location_state_online">On-line</string>
+    <string name="location_success">Éxito</string>
+    <string name="location_time">Reloj：</string>
+    <string name="login">Acceder</string>
+    <string name="login_account">Registrar Cuenta</string>
+    <string name="login_email">Registrar El correo</string>
+    <string name="login_login">Iniciar Sesión</string>
+    <string name="login_no_userinfo">Not available User data</string>
+    <string name="login_passeord">Configurar Contraseña</string>
+    <string name="main_location">Ubicación</string>
+    <string name="main_push_message">Lista de alarmas</string>
+    <string name="main_sound_monitor">Monitor</string>
+    <string name="main_sound_monitor_bt">Monitor</string>
+    <string name="march">march</string>
+    <string name="may">may</string>
+    <string name="mo">mo</string>
+    <string name="msg_error_google_play_services_failed">Google Play Services Unavailable</string>
+    <string name="music_End">Al final</string>
+    <string name="music_Success">El éxito de</string>
+    <string name="music_call">Call</string>
+    <string name="music_fail">El fracaso</string>
+    <string name="music_macid">Número IMEI：</string>
+    <string name="music_play">En la operación</string>
+    <string name="music_push">clic en play</string>
+    <string name="music_recording">Grabación</string>
+    <string name="music_start">Descargar</string>
+    <string name="music_time">Duración de grabación：</string>
+    <string name="noknow_location">Ubicación desconocida</string>
+    <string name="november">november</string>
+    <string name="october">october</string>
+    <string name="other_cancel">Cancelar</string>
+    <string name="other_close">Cerrar</string>
+    <string name="other_delete">Eliminar</string>
+    <string name="other_ensure">Ensure</string>
+    <string name="other_info">información</string>
+    <string name="other_nav">Navigation</string>
+    <string name="other_open">Abrir</string>
+    <string name="other_save">Guardar</string>
+    <string name="other_set">Siempre</string>
+    <string name="payment">Pago de Software</string>
+    <string name="permission">La autorización</string>
+    <string name="permission_active">La autorización</string>
+    <string name="permission_camera">Con el fin de garantizar el funcionamiento normal de la aplicación, la necesidad de obtener permiso de la Cámara</string>
+    <string name="permission_open">Con el fin de garantizar el funcionamiento normal de la aplicación,Por favor abre un permiso</string>
+    <string name="push">Ajustes Push</string>
+    <string name="register">Registrar</string>
+    <string name="register_Success">El registro ha sido exitoso.</string>
+    <string name="register_code">Código de Verificación：</string>
+    <string name="register_confirm_password">Confirmar Contraseña：</string>
+    <string name="register_device_name">Nombre del dispositivo：</string>
+    <string name="register_device_number">Número de dispositivo：</string>
+    <string name="register_email">El correo：</string>
+    <string name="register_get_Agreement">I have read the agreement and agree to accept the "user agreement"</string>
+    <string name="register_get_code">Validar Código</string>
+    <string name="register_nickname">Nombre：</string>
+    <string name="register_password">Contraseña：</string>
+    <string name="register_phone">Número telefónico：</string>
+    <string name="sa">sa</string>
+    <string name="september">september</string>
+    <string name="setting">Ajustes del Software</string>
+    <string name="setting_updata">Actualización</string>
+    <string name="setting_version">APP Número de versión</string>
+    <string name="setting_version_new">APP es la última versión!</string>
+    <string name="setting_version_new_up">¿Descubrir la nueva versión y actualizarla inmediatamente?</string>
+    <string name="su">su</string>
+    <string name="th">th</string>
+    <string name="tra">La trayectoria de</string>
+    <string name="tra_cue_1">No puede exceder de la fecha de hoy</string>
+    <string name="tra_cue_2">La gama de días debe ser de 1 ~ 3 días</string>
+    <string name="tra_cue_3">No es correcto formato de hora</string>
+    <string name="tra_custom">La costumbre</string>
+    <string name="tra_day">De</string>
+    <string name="tra_end_time">La hora final</string>
+    <string name="tra_fast">x3</string>
+    <string name="tra_lat">Lat：</string>
+    <string name="tra_lng">Lng：</string>
+    <string name="tra_medium">x2</string>
+    <string name="tra_month">Mes</string>
+    <string name="tra_slow">x1</string>
+    <string name="tra_start_time">Hora de inicio</string>
+    <string name="tra_today">Hoy</string>
+    <string name="tra_year">Años</string>
+    <string name="tra_yesterday">Ayer</string>
+    <string name="tra_yesterday_before">Anteayer</string>
+    <string name="tu">tu</string>
+    <string name="url_error">Servidor web</string>
+    <string name="user_info">Información de uso</string>
+    <string name="user_info_account">Número de cuenta</string>
+    <string name="user_info_logout">Salir</string>
+    <string name="user_info_logout_confirm">¿Quieres salir de la cuenta actual?</string>
+    <string name="user_info_logout_info">Usted no ha guardado los datos personales del segundo cambio, si confirma la devolución</string>
+    <string name="user_info_nikename">Alias</string>
+    <string name="user_info_password">Modificar contraseña</string>
+    <string name="user_initial_password">Contraseña anterior：</string>
+    <string name="user_new_password">Nueva contraseña：</string>
+    <string name="viewfinderview_status_text1">Por favor, coloque el no. de serie de la caja </string>
+    <string name="viewfinderview_status_text2">Auto escaneo</string>
+    <string name="we">we</string>
+    <style name="textSize">
+        <item name="android:textSize">@dimen/layout_x_16</item>
+    </style>
+</resources>

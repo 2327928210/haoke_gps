@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/location_nifo_bg" >
+
+    <LinearLayout
+        android:id="@+id/li_nav"
+        android:visibility="gone"
+        android:layout_width="@dimen/layout_x_220"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_x_10"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/layout_x_10" >
+
+        <ImageView
+            android:layout_width="@dimen/layout_x_30"
+            android:layout_height="@dimen/layout_x_30"
+            android:src="@drawable/nav" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_x_10"
+            android:text="@string/location_nav"
+            android:textColor="@color/white"
+            android:textSize="@dimen/layout_x_20" />
+    </LinearLayout>
+
+    <View
+        android:visibility="gone"
+        android:id="@+id/li_nav_view"
+        android:layout_marginTop="@dimen/layout_x_7"
+        android:layout_width="@dimen/layout_x_240"
+        android:layout_height="@dimen/layout_y_1"
+        android:layout_below="@+id/li_nav"
+        android:background="#aaa" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/li_nav_view"
+        android:gravity="center"
+        android:minHeight="@dimen/layout_y_130"
+        android:minWidth="@dimen/layout_x_220"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/layout_x_10"
+        android:paddingLeft="@dimen/layout_x_10"
+        android:paddingRight="@dimen/layout_x_10"
+        android:paddingTop="@dimen/layout_x_7" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_acc1"
+                style="@style/location_info_short_style"
+                android:text="@string/location_acc" />
+
+            <TextView
+                android:id="@+id/tv_acc"
+                style="@style/location_info_style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="left|center"
+                android:text="" />
+
+            <TextView
+                 android:id="@+id/tv_battery_text"
+                style="@style/location_info_style"
+                android:text="@string/location_electricity" />
+
+            <TextView
+                android:id="@+id/tv_battery"
+                style="@style/location_info_style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="left|center"
+                android:text="99%" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_door1"
+                style="@style/location_info_short_style"
+                android:text="@string/location_door" />
+
+            <TextView
+                android:id="@+id/tv_door"
+                style="@style/location_info_style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="left|center"
+                android:text="" />
+
+            <TextView
+                style="@style/location_info_short_style"
+                android:text="@string/location_state" />
+
+            <TextView
+                android:id="@+id/tv_state"
+                style="@style/location_info_style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="left|center"
+                android:text="" />
+        </LinearLayout>
+        
+         <LinearLayout
+            android:id="@+id/lin_dianya"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/location_info_style"
+                android:text="@string/location_dianya" />
+
+            <TextView
+                android:id="@+id/tv_dianya"
+                style="@style/location_info_style"
+                android:layout_width="wrap_content"
+                android:gravity="left"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/location_info_style"
+                android:text="@string/location_bvalid" />
+
+            <TextView
+                android:id="@+id/tv_bvalid"
+                style="@style/location_info_style"
+                android:layout_width="wrap_content"
+                android:gravity="left"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/location_info_style"
+                android:gravity="center_vertical"
+                android:text="@string/location_gsm_time" />
+
+            <TextView
+                android:id="@+id/tv_gsm_time"
+                style="@style/location_info_style"
+                android:gravity="center_vertical"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/location_info_style"
+                android:gravity="center_vertical"
+                android:text="@string/location_gps_time" />
+
+            <TextView
+                android:id="@+id/tv_gps_time"
+                style="@style/location_info_style"
+                android:gravity="center_vertical"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/location_info_style"
+                android:gravity="clip_horizontal"
+                android:text="@string/location_location" />
+
+            <TextView
+                android:id="@+id/tv_position"
+                style="@style/location_info_style"
+                android:layout_width="match_parent"
+                android:gravity="left"
+                android:maxWidth="@dimen/layout_x_150"
+                android:text="" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
